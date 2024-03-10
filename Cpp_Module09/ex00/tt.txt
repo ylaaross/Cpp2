@@ -1,0 +1,4839 @@
+0|0|0
+value        --0idate0 dvalue0
+2009|1|2
+value        --0idate733317 dvalue0
+2009|1|5
+value        --0idate733320 dvalue0
+2009|1|8
+value        --0idate733323 dvalue0
+2009|1|11
+value        --0idate733326 dvalue0
+2009|1|14
+value        --0idate733329 dvalue0
+2009|1|17
+value        --0idate733332 dvalue0
+2009|1|20
+value        --0idate733335 dvalue0
+2009|1|23
+value        --0idate733338 dvalue0
+2009|1|26
+value        --0idate733341 dvalue0
+2009|1|29
+value        --0idate733344 dvalue0
+2009|2|1
+value        --0idate733346 dvalue0
+2009|2|4
+value        --0idate733349 dvalue0
+2009|2|7
+value        --0idate733352 dvalue0
+2009|2|10
+value        --0idate733355 dvalue0
+2009|2|13
+value        --0idate733358 dvalue0
+2009|2|16
+value        --0idate733361 dvalue0
+2009|2|19
+value        --0idate733364 dvalue0
+2009|2|22
+value        --0idate733367 dvalue0
+2009|2|25
+value        --0idate733370 dvalue0
+2009|2|28
+value        --0idate733373 dvalue0
+2009|3|3
+value        --0idate733378 dvalue0
+2009|3|6
+value        --0idate733381 dvalue0
+2009|3|9
+value        --0idate733384 dvalue0
+2009|3|12
+value        --0idate733387 dvalue0
+2009|3|15
+value        --0idate733390 dvalue0
+2009|3|18
+value        --0idate733393 dvalue0
+2009|3|21
+value        --0idate733396 dvalue0
+2009|3|24
+value        --0idate733399 dvalue0
+2009|3|27
+value        --0idate733402 dvalue0
+2009|3|31
+value        --0idate733406 dvalue0
+2009|4|3
+value        --0idate733408 dvalue0
+2009|4|6
+value        --0idate733411 dvalue0
+2009|4|9
+value        --0idate733414 dvalue0
+2009|4|12
+value        --0idate733417 dvalue0
+2009|4|15
+value        --0idate733420 dvalue0
+2009|4|18
+value        --0idate733423 dvalue0
+2009|4|21
+value        --0idate733426 dvalue0
+2009|4|24
+value        --0idate733429 dvalue0
+2009|4|27
+value        --0idate733432 dvalue0
+2009|4|30
+value        --0idate733435 dvalue0
+2009|5|3
+value        --0idate733438 dvalue0
+2009|5|6
+value        --0idate733441 dvalue0
+2009|5|9
+value        --0idate733444 dvalue0
+2009|5|12
+value        --0idate733447 dvalue0
+2009|5|15
+value        --0idate733450 dvalue0
+2009|5|18
+value        --0idate733453 dvalue0
+2009|5|21
+value        --0idate733456 dvalue0
+2009|5|24
+value        --0idate733459 dvalue0
+2009|5|27
+value        --0idate733462 dvalue0
+2009|5|30
+value        --0idate733465 dvalue0
+2009|6|2
+value        --0idate733467 dvalue0
+2009|6|5
+value        --0idate733470 dvalue0
+2009|6|8
+value        --0idate733473 dvalue0
+2009|6|11
+value        --0idate733476 dvalue0
+2009|6|14
+value        --0idate733479 dvalue0
+2009|6|17
+value        --0idate733482 dvalue0
+2009|6|20
+value        --0idate733485 dvalue0
+2009|6|23
+value        --0idate733488 dvalue0
+2009|6|26
+value        --0idate733491 dvalue0
+2009|6|29
+value        --0idate733494 dvalue0
+2009|7|2
+value        --0idate733497 dvalue0
+2009|7|5
+value        --0idate733500 dvalue0
+2009|7|8
+value        --0idate733503 dvalue0
+2009|7|11
+value        --0idate733506 dvalue0
+2009|7|14
+value        --0idate733509 dvalue0
+2009|7|17
+value        --0idate733512 dvalue0
+2009|7|20
+value        --0idate733515 dvalue0
+2009|7|23
+value        --0idate733518 dvalue0
+2009|7|26
+value        --0idate733521 dvalue0
+2009|7|29
+value        --0idate733524 dvalue0
+2009|8|1
+value        --0idate733526 dvalue0
+2009|8|4
+value        --0idate733529 dvalue0
+2009|8|7
+value        --0idate733532 dvalue0
+2009|8|10
+value        --0idate733535 dvalue0
+2009|8|13
+value        --0idate733538 dvalue0
+2009|8|16
+value        --0idate733541 dvalue0
+2009|8|19
+value        --0idate733544 dvalue0
+2009|8|22
+value        --0idate733547 dvalue0
+2009|8|25
+value        --0idate733550 dvalue0
+2009|8|28
+value        --0idate733553 dvalue0
+2009|8|31
+value        --0idate733556 dvalue0
+2009|9|3
+value        --0idate733558 dvalue0
+2009|9|6
+value        --0idate733561 dvalue0
+2009|9|9
+value        --0idate733564 dvalue0
+2009|9|12
+value        --0idate733567 dvalue0
+2009|9|15
+value        --0idate733570 dvalue0
+2009|9|18
+value        --0idate733573 dvalue0
+2009|9|21
+value        --0idate733576 dvalue0
+2009|9|24
+value        --0idate733579 dvalue0
+2009|9|27
+value        --0idate733582 dvalue0
+2009|9|30
+value        --0idate733585 dvalue0
+2009|10|3
+value        --0idate733588 dvalue0
+2009|10|6
+value        --0idate733591 dvalue0
+2009|10|9
+value        --0idate733594 dvalue0
+2009|10|12
+value        --0idate733597 dvalue0
+2009|10|15
+value        --0idate733600 dvalue0
+2009|10|18
+value        --0idate733603 dvalue0
+2009|10|21
+value        --0idate733606 dvalue0
+2009|10|24
+value        --0idate733609 dvalue0
+2009|10|26
+value        --0idate733611 dvalue0
+2009|10|29
+value        --0idate733614 dvalue0
+2009|11|1
+value        --0idate733616 dvalue0
+2009|11|4
+value        --0idate733619 dvalue0
+2009|11|7
+value        --0idate733622 dvalue0
+2009|11|10
+value        --0idate733625 dvalue0
+2009|11|13
+value        --0idate733628 dvalue0
+2009|11|16
+value        --0idate733631 dvalue0
+2009|11|19
+value        --0idate733634 dvalue0
+2009|11|22
+value        --0idate733637 dvalue0
+2009|11|25
+value        --0idate733640 dvalue0
+2009|11|28
+value        --0idate733643 dvalue0
+2009|12|1
+value        --0idate733646 dvalue0
+2009|12|4
+value        --0idate733649 dvalue0
+2009|12|7
+value        --0idate733652 dvalue0
+2009|12|10
+value        --0idate733655 dvalue0
+2009|12|13
+value        --0idate733658 dvalue0
+2009|12|16
+value        --0idate733661 dvalue0
+2009|12|19
+value        --0idate733664 dvalue0
+2009|12|22
+value        --0idate733667 dvalue0
+2009|12|25
+value        --0idate733670 dvalue0
+2009|12|28
+value        --0idate733673 dvalue0
+2009|12|31
+value        --0idate733676 dvalue0
+2010|1|3
+value        --0idate733683 dvalue0
+2010|1|6
+value        --0idate733686 dvalue0
+2010|1|9
+value        --0idate733689 dvalue0
+2010|1|12
+value        --0idate733692 dvalue0
+2010|1|15
+value        --0idate733695 dvalue0
+2010|1|18
+value        --0idate733698 dvalue0
+2010|1|21
+value        --0idate733701 dvalue0
+2010|1|24
+value        --0idate733704 dvalue0
+2010|1|27
+value        --0idate733707 dvalue0
+2010|1|30
+value        --0idate733710 dvalue0
+2010|2|2
+value        --0idate733712 dvalue0
+2010|2|5
+value        --0idate733715 dvalue0
+2010|2|8
+value        --0idate733718 dvalue0
+2010|2|11
+value        --0idate733721 dvalue0
+2010|2|14
+value        --0idate733724 dvalue0
+2010|2|17
+value        --0idate733727 dvalue0
+2010|2|20
+value        --0idate733730 dvalue0
+2010|2|23
+value        --0idate733733 dvalue0
+2010|2|26
+value        --0idate733736 dvalue0
+2010|3|1
+value        --0idate733741 dvalue0
+2010|3|4
+value        --0idate733744 dvalue0
+2010|3|7
+value        --0idate733747 dvalue0
+2010|3|10
+value        --0idate733750 dvalue0
+2010|3|13
+value        --0idate733753 dvalue0
+2010|3|16
+value        --0idate733756 dvalue0
+2010|3|19
+value        --0idate733759 dvalue0
+2010|3|22
+value        --0idate733762 dvalue0
+2010|3|25
+value        --0idate733765 dvalue0
+2010|3|29
+value        --0idate733769 dvalue0
+2010|4|1
+value        --0idate733771 dvalue0
+2010|4|4
+value        --0idate733774 dvalue0
+2010|4|7
+value        --0idate733777 dvalue0
+2010|4|10
+value        --0idate733780 dvalue0
+2010|4|13
+value        --0idate733783 dvalue0
+2010|4|16
+value        --0idate733786 dvalue0
+2010|4|19
+value        --0idate733789 dvalue0
+2010|4|22
+value        --0idate733792 dvalue0
+2010|4|25
+value        --0idate733795 dvalue0
+2010|4|28
+value        --0idate733798 dvalue0
+2010|5|1
+value        --0idate733801 dvalue0
+2010|5|4
+value        --0idate733804 dvalue0
+2010|5|7
+value        --0idate733807 dvalue0
+2010|5|10
+value        --0idate733810 dvalue0
+2010|5|13
+value        --0idate733813 dvalue0
+2010|5|16
+value        --0idate733816 dvalue0
+2010|5|19
+value        --0idate733819 dvalue0
+2010|5|22
+value        --0idate733822 dvalue0
+2010|5|25
+value        --0idate733825 dvalue0
+2010|5|28
+value        --0idate733828 dvalue0
+2010|5|31
+value        --0idate733831 dvalue0
+2010|6|3
+value        --0idate733833 dvalue0
+2010|6|6
+value        --0idate733836 dvalue0
+2010|6|9
+value        --0idate733839 dvalue0
+2010|6|12
+value        --0idate733842 dvalue0
+2010|6|15
+value        --0idate733845 dvalue0
+2010|6|18
+value        --0idate733848 dvalue0
+2010|6|21
+value        --0idate733851 dvalue0
+2010|6|24
+value        --0idate733854 dvalue0
+2010|6|27
+value        --0idate733857 dvalue0
+2010|6|30
+value        --0idate733860 dvalue0
+2010|7|3
+value        --0idate733863 dvalue0
+2010|7|6
+value        --0idate733866 dvalue0
+2010|7|9
+value        --0idate733869 dvalue0
+2010|7|12
+value        --0idate733872 dvalue0
+2010|7|15
+value        --0idate733875 dvalue0
+2010|7|18
+value        --0idate733878 dvalue0
+2010|7|21
+value        --0idate733881 dvalue0
+2010|7|24
+value        --0idate733884 dvalue0
+2010|7|27
+value        --0idate733887 dvalue0
+2010|7|30
+value        --0idate733890 dvalue0
+2010|8|2
+value        --0idate733892 dvalue0
+2010|8|5
+value        --0idate733895 dvalue0
+2010|8|8
+value        --0idate733898 dvalue0
+2010|8|11
+value        --0idate733901 dvalue0
+2010|8|14
+value        --0idate733904 dvalue0
+2010|8|17
+value        --0idate733907 dvalue0
+2010|8|20
+value        --0idate733910 dvalue0
+2010|8|23
+value        --0idate733913 dvalue0
+2010|8|26
+value        --0idate733916 dvalue0
+2010|8|29
+value        --0idate733919 dvalue0
+2010|9|1
+value        --0idate733921 dvalue0
+2010|9|4
+value        --0idate733924 dvalue0
+2010|9|7
+value        --0idate733927 dvalue0
+2010|9|10
+value        --0idate733930 dvalue0
+2010|9|13
+value        --0idate733933 dvalue0
+2010|9|16
+value        --0idate733936 dvalue0
+2010|9|19
+value        --0idate733939 dvalue0
+2010|9|22
+value        --0idate733942 dvalue0
+2010|9|25
+value        --0idate733945 dvalue0
+2010|9|28
+value        --0idate733948 dvalue0
+2010|10|1
+value        --0idate733951 dvalue0
+2010|10|4
+value        --0idate733954 dvalue0
+2010|10|7
+value        --0idate733957 dvalue0
+2010|10|10
+value        --0idate733960 dvalue0
+2010|10|13
+value        --0idate733963 dvalue0
+2010|10|16
+value        --0idate733966 dvalue0
+2010|10|19
+value        --0idate733969 dvalue0
+2010|10|22
+value        --0idate733972 dvalue0
+2010|10|25
+value        --0idate733975 dvalue0
+2010|10|28
+value        --0idate733978 dvalue0
+2010|10|31
+value        --0idate733981 dvalue0
+2010|11|2
+value        --0idate733982 dvalue0
+2010|11|5
+value        --0idate733985 dvalue0
+2010|11|8
+value        --0idate733988 dvalue0
+2010|11|11
+value        --0idate733991 dvalue0
+2010|11|14
+value        --0idate733994 dvalue0
+2010|11|17
+value        --0idate733997 dvalue0
+2010|11|20
+value        --0idate734000 dvalue0
+2010|11|23
+value        --0idate734003 dvalue0
+2010|11|26
+value        --0idate734006 dvalue0
+2010|11|29
+value        --0idate734009 dvalue0
+2010|12|2
+value        --0idate734012 dvalue0
+2010|12|5
+value        --0idate734015 dvalue0
+2010|12|8
+value        --0idate734018 dvalue0
+2010|12|11
+value        --0idate734021 dvalue0
+2010|12|14
+value        --0idate734024 dvalue0
+2010|12|17
+value        --0idate734027 dvalue0
+2010|12|20
+value        --0idate734030 dvalue0
+2010|12|23
+value        --0idate734033 dvalue0
+2010|12|26
+value        --0idate734036 dvalue0
+2010|12|29
+value        --0idate734039 dvalue0
+2011|1|1
+value        --0idate734046 dvalue0
+2011|1|4
+value        --0idate734049 dvalue0
+2011|1|7
+value        --0idate734052 dvalue0
+2011|1|10
+value        --0idate734055 dvalue0
+2011|1|13
+value        --0idate734058 dvalue0
+2011|1|16
+value        --0idate734061 dvalue0
+2011|1|19
+value        --0idate734064 dvalue0
+2011|1|22
+value        --0idate734067 dvalue0
+2011|1|25
+value        --0idate734070 dvalue0
+2011|1|28
+value        --0idate734073 dvalue0
+2011|1|31
+value        --0idate734076 dvalue0
+2011|2|3
+value        --0idate734078 dvalue0
+2011|2|6
+value        --0idate734081 dvalue0
+2011|2|9
+value        --0idate734084 dvalue0
+2011|2|12
+value        --0idate734087 dvalue0
+2011|2|15
+value        --0idate734090 dvalue0
+2011|2|18
+value        --0idate734093 dvalue0
+2011|2|21
+value        --0idate734096 dvalue0
+2011|2|24
+value        --0idate734099 dvalue0
+2011|2|27
+value        --0idate734102 dvalue0
+2011|3|2
+value        --0idate734107 dvalue0
+2011|3|5
+value        --0idate734110 dvalue0
+2011|3|8
+value        --0idate734113 dvalue0
+2011|3|11
+value        --0idate734116 dvalue0
+2011|3|14
+value        --0idate734119 dvalue0
+2011|3|17
+value        --0idate734122 dvalue0
+2011|3|20
+value        --0idate734125 dvalue0
+2011|3|23
+value        --0idate734128 dvalue0
+2011|3|26
+value        --0idate734131 dvalue0
+2011|3|30
+value        --0idate734135 dvalue0
+2011|4|2
+value        --0idate734137 dvalue0
+2011|4|5
+value        --0idate734140 dvalue0
+2011|4|8
+value        --0idate734143 dvalue0
+2011|4|11
+value        --0idate734146 dvalue0
+2011|4|14
+value        --0idate734149 dvalue0
+2011|4|17
+value        --0idate734152 dvalue0
+2011|4|20
+value        --0idate734155 dvalue0
+2011|4|23
+value        --0idate734158 dvalue0
+2011|4|26
+value        --0idate734161 dvalue0
+2011|4|29
+value        --0idate734164 dvalue0
+2011|5|2
+value        --0idate734167 dvalue0
+2011|5|5
+value        --0idate734170 dvalue0
+2011|5|8
+value        --0idate734173 dvalue0
+2011|5|11
+value        --0idate734176 dvalue0
+2011|5|14
+value        --0idate734179 dvalue0
+2011|5|17
+value        --0idate734182 dvalue0
+2011|5|20
+value        --0idate734185 dvalue0
+2011|5|23
+value        --0idate734188 dvalue0
+2011|5|26
+value        --0idate734191 dvalue0
+2011|5|29
+value        --0idate734194 dvalue0
+2011|6|1
+value        --0idate734196 dvalue0
+2011|6|4
+value        --0idate734199 dvalue0
+2011|6|7
+value        --0idate734202 dvalue0
+2011|6|10
+value        --0idate734205 dvalue0
+2011|6|13
+value        --0idate734208 dvalue0
+2011|6|16
+value        --0idate734211 dvalue0
+2011|6|19
+value        --0idate734214 dvalue0
+2011|6|22
+value        --0idate734217 dvalue0
+2011|6|25
+value        --0idate734220 dvalue0
+2011|6|28
+value        --0idate734223 dvalue0
+2011|7|1
+value        --0idate734226 dvalue0
+2011|7|4
+value        --0idate734229 dvalue0
+2011|7|7
+value        --0idate734232 dvalue0
+2011|7|10
+value        --0idate734235 dvalue0
+2011|7|13
+value        --0idate734238 dvalue0
+2011|7|16
+value        --0idate734241 dvalue0
+2011|7|19
+value        --0idate734244 dvalue0
+2011|7|22
+value        --0idate734247 dvalue0
+2011|7|25
+value        --0idate734250 dvalue0
+2011|7|28
+value        --0idate734253 dvalue0
+2011|7|31
+value        --0idate734256 dvalue0
+2011|8|3
+value        --0idate734258 dvalue0
+2011|8|6
+value        --0idate734261 dvalue0
+2011|8|9
+value        --0idate734264 dvalue0
+2011|8|12
+value        --0idate734267 dvalue0
+2011|8|15
+value        --0idate734270 dvalue0
+2011|8|18
+value        --0idate734273 dvalue0
+2011|8|21
+value        --0idate734276 dvalue0
+2011|8|24
+value        --0idate734279 dvalue0
+2011|8|27
+value        --0idate734282 dvalue0
+2011|8|30
+value        --0idate734285 dvalue0
+2011|9|2
+value        --0idate734287 dvalue0
+2011|9|5
+value        --0idate734290 dvalue0
+2011|9|8
+value        --0idate734293 dvalue0
+2011|9|11
+value        --0idate734296 dvalue0
+2011|9|14
+value        --0idate734299 dvalue0
+2011|9|17
+value        --0idate734302 dvalue0
+2011|9|20
+value        --0idate734305 dvalue0
+2011|9|23
+value        --0idate734308 dvalue0
+2011|9|26
+value        --0idate734311 dvalue0
+2011|9|29
+value        --0idate734314 dvalue0
+2011|10|2
+value        --0idate734317 dvalue0
+2011|10|5
+value        --0idate734320 dvalue0
+2011|10|8
+value        --0idate734323 dvalue0
+2011|10|11
+value        --0idate734326 dvalue0
+2011|10|14
+value        --0idate734329 dvalue0
+2011|10|17
+value        --0idate734332 dvalue0
+2011|10|20
+value        --0idate734335 dvalue0
+2011|10|23
+value        --0idate734338 dvalue0
+2011|10|26
+value        --0idate734341 dvalue0
+2011|10|29
+value        --0idate734344 dvalue0
+2011|10|31
+value        --0idate734346 dvalue0
+2011|11|3
+value        --0idate734348 dvalue0
+2011|11|6
+value        --0idate734351 dvalue0
+2011|11|9
+value        --0idate734354 dvalue0
+2011|11|12
+value        --0idate734357 dvalue0
+2011|11|15
+value        --0idate734360 dvalue0
+2011|11|18
+value        --0idate734363 dvalue0
+2011|11|21
+value        --0idate734366 dvalue0
+2011|11|24
+value        --0idate734369 dvalue0
+2011|11|27
+value        --0idate734372 dvalue0
+2011|11|30
+value        --0idate734375 dvalue0
+2011|12|3
+value        --0idate734378 dvalue0
+2011|12|6
+value        --0idate734381 dvalue0
+2011|12|9
+value        --0idate734384 dvalue0
+2011|12|12
+value        --0idate734387 dvalue0
+2011|12|15
+value        --0idate734390 dvalue0
+2011|12|18
+value        --0idate734393 dvalue0
+2011|12|21
+value        --0idate734396 dvalue0
+2011|12|24
+value        --0idate734399 dvalue0
+2011|12|27
+value        --0idate734402 dvalue0
+2011|12|30
+value        --0idate734405 dvalue0
+2012|1|2
+value        --0idate734412 dvalue0
+2012|1|5
+value        --0idate734415 dvalue0
+2012|1|8
+value        --0idate734418 dvalue0
+2012|1|11
+value        --0idate734421 dvalue0
+2012|1|14
+value        --0idate734424 dvalue0
+2012|1|17
+value        --0idate734427 dvalue0
+2012|1|20
+value        --0idate734430 dvalue0
+2012|1|23
+value        --0idate734433 dvalue0
+2012|1|26
+value        --0idate734436 dvalue0
+2012|1|29
+value        --0idate734439 dvalue0
+2012|2|1
+value        --0idate734441 dvalue0
+2012|2|4
+value        --0idate734444 dvalue0
+2012|2|7
+value        --0idate734447 dvalue0
+2012|2|10
+value        --0idate734450 dvalue0
+2012|2|13
+value        --0idate734453 dvalue0
+2012|2|16
+value        --0idate734456 dvalue0
+2012|2|19
+value        --0idate734459 dvalue0
+2012|2|22
+value        --0idate734462 dvalue0
+2012|2|25
+value        --0idate734465 dvalue0
+2012|2|28
+value        --0idate734468 dvalue0
+2012|3|2
+value        --0idate734472 dvalue0
+2012|3|5
+value        --0idate734475 dvalue0
+2012|3|8
+value        --0idate734478 dvalue0
+2012|3|11
+value        --0idate734481 dvalue0
+2012|3|14
+value        --0idate734484 dvalue0
+2012|3|17
+value        --0idate734487 dvalue0
+2012|3|20
+value        --0idate734490 dvalue0
+2012|3|23
+value        --0idate734493 dvalue0
+2012|3|27
+value        --0idate734497 dvalue0
+2012|3|30
+value        --0idate734500 dvalue0
+2012|4|2
+value        --0idate734502 dvalue0
+2012|4|5
+value        --0idate734505 dvalue0
+2012|4|8
+value        --0idate734508 dvalue0
+2012|4|11
+value        --0idate734511 dvalue0
+2012|4|14
+value        --0idate734514 dvalue0
+2012|4|17
+value        --0idate734517 dvalue0
+2012|4|20
+value        --0idate734520 dvalue0
+2012|4|23
+value        --0idate734523 dvalue0
+2012|4|26
+value        --0idate734526 dvalue0
+2012|4|29
+value        --0idate734529 dvalue0
+2012|5|2
+value        --0idate734532 dvalue0
+2012|5|5
+value        --0idate734535 dvalue0
+2012|5|8
+value        --0idate734538 dvalue0
+2012|5|11
+value        --0idate734541 dvalue0
+2012|5|14
+value        --0idate734544 dvalue0
+2012|5|17
+value        --0idate734547 dvalue0
+2012|5|20
+value        --0idate734550 dvalue0
+2012|5|23
+value        --0idate734553 dvalue0
+2012|5|26
+value        --0idate734556 dvalue0
+2012|5|29
+value        --0idate734559 dvalue0
+2012|6|1
+value        --0idate734561 dvalue0
+2012|6|4
+value        --0idate734564 dvalue0
+2012|6|7
+value        --0idate734567 dvalue0
+2012|6|10
+value        --0idate734570 dvalue0
+2012|6|13
+value        --0idate734573 dvalue0
+2012|6|16
+value        --0idate734576 dvalue0
+2012|6|19
+value        --0idate734579 dvalue0
+2012|6|22
+value        --0idate734582 dvalue0
+2012|6|25
+value        --0idate734585 dvalue0
+2012|6|28
+value        --0idate734588 dvalue0
+2012|7|1
+value        --0idate734591 dvalue0
+2012|7|4
+value        --0idate734594 dvalue0
+2012|7|7
+value        --0idate734597 dvalue0
+2012|7|10
+value        --0idate734600 dvalue0
+2012|7|13
+value        --0idate734603 dvalue0
+2012|7|16
+value        --0idate734606 dvalue0
+2012|7|19
+value        --0idate734609 dvalue0
+2012|7|22
+value        --0idate734612 dvalue0
+2012|7|25
+value        --0idate734615 dvalue0
+2012|7|28
+value        --0idate734618 dvalue0
+2012|7|31
+value        --0idate734621 dvalue0
+2012|8|3
+value        --0idate734623 dvalue0
+2012|8|6
+value        --0idate734626 dvalue0
+2012|8|9
+value        --0idate734629 dvalue0
+2012|8|12
+value        --0idate734632 dvalue0
+2012|8|15
+value        --0idate734635 dvalue0
+2012|8|18
+value        --0idate734638 dvalue0
+2012|8|21
+value        --0idate734641 dvalue0
+2012|8|24
+value        --0idate734644 dvalue0
+2012|8|27
+value        --0idate734647 dvalue0
+2012|8|30
+value        --0idate734650 dvalue0
+2012|9|2
+value        --0idate734652 dvalue0
+2012|9|5
+value        --0idate734655 dvalue0
+2012|9|8
+value        --0idate734658 dvalue0
+2012|9|11
+value        --0idate734661 dvalue0
+2012|9|14
+value        --0idate734664 dvalue0
+2012|9|17
+value        --0idate734667 dvalue0
+2012|9|20
+value        --0idate734670 dvalue0
+2012|9|23
+value        --0idate734673 dvalue0
+2012|9|26
+value        --0idate734676 dvalue0
+2012|9|29
+value        --0idate734679 dvalue0
+2012|10|2
+value        --0idate734682 dvalue0
+2012|10|5
+value        --0idate734685 dvalue0
+2012|10|8
+value        --0idate734688 dvalue0
+2012|10|11
+value        --0idate734691 dvalue0
+2012|10|14
+value        --0idate734694 dvalue0
+2012|10|17
+value        --0idate734697 dvalue0
+2012|10|20
+value        --0idate734700 dvalue0
+2012|10|23
+value        --0idate734703 dvalue0
+2012|10|26
+value        --0idate734706 dvalue0
+2012|10|28
+value        --0idate734708 dvalue0
+2012|10|31
+value        --0idate734711 dvalue0
+2012|11|3
+value        --0idate734713 dvalue0
+2012|11|6
+value        --0idate734716 dvalue0
+2012|11|9
+value        --0idate734719 dvalue0
+2012|11|12
+value        --0idate734722 dvalue0
+2012|11|15
+value        --0idate734725 dvalue0
+2012|11|18
+value        --0idate734728 dvalue0
+2012|11|21
+value        --0idate734731 dvalue0
+2012|11|24
+value        --0idate734734 dvalue0
+2012|11|27
+value        --0idate734737 dvalue0
+2012|11|30
+value        --0idate734740 dvalue0
+2012|12|3
+value        --0idate734743 dvalue0
+2012|12|6
+value        --0idate734746 dvalue0
+2012|12|9
+value        --0idate734749 dvalue0
+2012|12|12
+value        --0idate734752 dvalue0
+2012|12|15
+value        --0idate734755 dvalue0
+2012|12|18
+value        --0idate734758 dvalue0
+2012|12|21
+value        --0idate734761 dvalue0
+2012|12|24
+value        --0idate734764 dvalue0
+2012|12|27
+value        --0idate734767 dvalue0
+2012|12|30
+value        --0idate734770 dvalue0
+2013|1|2
+value        --0idate734777 dvalue0
+2013|1|5
+value        --0idate734780 dvalue0
+2013|1|8
+value        --0idate734783 dvalue0
+2013|1|11
+value        --0idate734786 dvalue0
+2013|1|14
+value        --0idate734789 dvalue0
+2013|1|17
+value        --0idate734792 dvalue0
+2013|1|20
+value        --0idate734795 dvalue0
+2013|1|23
+value        --0idate734798 dvalue0
+2013|1|26
+value        --0idate734801 dvalue0
+2013|1|29
+value        --0idate734804 dvalue0
+2013|2|1
+value        --0idate734806 dvalue0
+2013|2|4
+value        --0idate734809 dvalue0
+2013|2|7
+value        --0idate734812 dvalue0
+2013|2|10
+value        --0idate734815 dvalue0
+2013|2|13
+value        --0idate734818 dvalue0
+2013|2|16
+value        --0idate734821 dvalue0
+2013|2|19
+value        --0idate734824 dvalue0
+2013|2|22
+value        --0idate734827 dvalue0
+2013|2|25
+value        --0idate734830 dvalue0
+2013|2|28
+value        --0idate734833 dvalue0
+2013|3|3
+value        --0idate734838 dvalue0
+2013|3|6
+value        --0idate734841 dvalue0
+2013|3|9
+value        --0idate734844 dvalue0
+2013|3|12
+value        --0idate734847 dvalue0
+2013|3|15
+value        --0idate734850 dvalue0
+2013|3|18
+value        --0idate734853 dvalue0
+2013|3|21
+value        --0idate734856 dvalue0
+2013|3|24
+value        --0idate734859 dvalue0
+2013|3|27
+value        --0idate734862 dvalue0
+2013|3|30
+value        --0idate734865 dvalue0
+2013|4|3
+value        --0idate734868 dvalue0
+2013|4|6
+value        --0idate734871 dvalue0
+2013|4|9
+value        --0idate734874 dvalue0
+2013|4|12
+value        --0idate734877 dvalue0
+2013|4|15
+value        --0idate734880 dvalue0
+2013|4|18
+value        --0idate734883 dvalue0
+2013|4|21
+value        --0idate734886 dvalue0
+2013|4|24
+value        --0idate734889 dvalue0
+2013|4|27
+value        --0idate734892 dvalue0
+2013|4|30
+value        --0idate734895 dvalue0
+2013|5|3
+value        --0idate734898 dvalue0
+2013|5|6
+value        --0idate734901 dvalue0
+2013|5|9
+value        --0idate734904 dvalue0
+2013|5|12
+value        --0idate734907 dvalue0
+2013|5|15
+value        --0idate734910 dvalue0
+2013|5|18
+value        --0idate734913 dvalue0
+2013|5|21
+value        --0idate734916 dvalue0
+2013|5|24
+value        --0idate734919 dvalue0
+2013|5|27
+value        --0idate734922 dvalue0
+2013|5|30
+value        --0idate734925 dvalue0
+2013|6|2
+value        --0idate734927 dvalue0
+2013|6|5
+value        --0idate734930 dvalue0
+2013|6|8
+value        --0idate734933 dvalue0
+2013|6|11
+value        --0idate734936 dvalue0
+2013|6|14
+value        --0idate734939 dvalue0
+2013|6|17
+value        --0idate734942 dvalue0
+2013|6|20
+value        --0idate734945 dvalue0
+2013|6|23
+value        --0idate734948 dvalue0
+2013|6|26
+value        --0idate734951 dvalue0
+2013|6|29
+value        --0idate734954 dvalue0
+2013|7|2
+value        --0idate734957 dvalue0
+2013|7|5
+value        --0idate734960 dvalue0
+2013|7|8
+value        --0idate734963 dvalue0
+2013|7|11
+value        --0idate734966 dvalue0
+2013|7|14
+value        --0idate734969 dvalue0
+2013|7|17
+value        --0idate734972 dvalue0
+2013|7|20
+value        --0idate734975 dvalue0
+2013|7|23
+value        --0idate734978 dvalue0
+2013|7|26
+value        --0idate734981 dvalue0
+2013|7|29
+value        --0idate734984 dvalue0
+2013|8|1
+value        --0idate734986 dvalue0
+2013|8|4
+value        --0idate734989 dvalue0
+2013|8|7
+value        --0idate734992 dvalue0
+2013|8|10
+value        --0idate734995 dvalue0
+2013|8|13
+value        --0idate734998 dvalue0
+2013|8|16
+value        --0idate735001 dvalue0
+2013|8|19
+value        --0idate735004 dvalue0
+2013|8|22
+value        --0idate735007 dvalue0
+2013|8|25
+value        --0idate735010 dvalue0
+2013|8|28
+value        --0idate735013 dvalue0
+2013|8|31
+value        --0idate735016 dvalue0
+2013|9|3
+value        --0idate735018 dvalue0
+2013|9|6
+value        --0idate735021 dvalue0
+2013|9|9
+value        --0idate735024 dvalue0
+2013|9|12
+value        --0idate735027 dvalue0
+2013|9|15
+value        --0idate735030 dvalue0
+2013|9|18
+value        --0idate735033 dvalue0
+2013|9|21
+value        --0idate735036 dvalue0
+2013|9|24
+value        --0idate735039 dvalue0
+2013|9|27
+value        --0idate735042 dvalue0
+2013|9|30
+value        --0idate735045 dvalue0
+2013|10|3
+value        --0idate735048 dvalue0
+2013|10|6
+value        --0idate735051 dvalue0
+2013|10|9
+value        --0idate735054 dvalue0
+2013|10|12
+value        --0idate735057 dvalue0
+2013|10|15
+value        --0idate735060 dvalue0
+2013|10|18
+value        --0idate735063 dvalue0
+2013|10|21
+value        --0idate735066 dvalue0
+2013|10|24
+value        --0idate735069 dvalue0
+2013|10|27
+value        --0idate735072 dvalue0
+2013|10|29
+value        --0idate735074 dvalue0
+2013|11|1
+value        --0idate735076 dvalue0
+2013|11|4
+value        --0idate735079 dvalue0
+2013|11|7
+value        --0idate735082 dvalue0
+2013|11|10
+value        --0idate735085 dvalue0
+2013|11|13
+value        --0idate735088 dvalue0
+2013|11|16
+value        --0idate735091 dvalue0
+2013|11|19
+value        --0idate735094 dvalue0
+2013|11|22
+value        --0idate735097 dvalue0
+2013|11|25
+value        --0idate735100 dvalue0
+2013|11|28
+value        --0idate735103 dvalue0
+2013|12|1
+value        --0idate735106 dvalue0
+2013|12|4
+value        --0idate735109 dvalue0
+2013|12|7
+value        --0idate735112 dvalue0
+2013|12|10
+value        --0idate735115 dvalue0
+2013|12|13
+value        --0idate735118 dvalue0
+2013|12|16
+value        --0idate735121 dvalue0
+2013|12|19
+value        --0idate735124 dvalue0
+2013|12|22
+value        --0idate735127 dvalue0
+2013|12|25
+value        --0idate735130 dvalue0
+2013|12|28
+value        --0idate735133 dvalue0
+2013|12|31
+value        --0idate735136 dvalue0
+2014|1|3
+value        --0idate735143 dvalue0
+2014|1|6
+value        --0idate735146 dvalue0
+2014|1|9
+value        --0idate735149 dvalue0
+2014|1|12
+value        --0idate735152 dvalue0
+2014|1|15
+value        --0idate735155 dvalue0
+2014|1|18
+value        --0idate735158 dvalue0
+2014|1|21
+value        --0idate735161 dvalue0
+2014|1|24
+value        --0idate735164 dvalue0
+2014|1|27
+value        --0idate735167 dvalue0
+2014|1|30
+value        --0idate735170 dvalue0
+2014|2|2
+value        --0idate735172 dvalue0
+2014|2|5
+value        --0idate735175 dvalue0
+2014|2|8
+value        --0idate735178 dvalue0
+2014|2|11
+value        --0idate735181 dvalue0
+2014|2|14
+value        --0idate735184 dvalue0
+2014|2|17
+value        --0idate735187 dvalue0
+2014|2|20
+value        --0idate735190 dvalue0
+2014|2|23
+value        --0idate735193 dvalue0
+2014|2|26
+value        --0idate735196 dvalue0
+2014|3|1
+value        --0idate735201 dvalue0
+2014|3|4
+value        --0idate735204 dvalue0
+2014|3|7
+value        --0idate735207 dvalue0
+2014|3|10
+value        --0idate735210 dvalue0
+2014|3|13
+value        --0idate735213 dvalue0
+2014|3|16
+value        --0idate735216 dvalue0
+2014|3|19
+value        --0idate735219 dvalue0
+2014|3|22
+value        --0idate735222 dvalue0
+2014|3|25
+value        --0idate735225 dvalue0
+2014|3|28
+value        --0idate735228 dvalue0
+2014|4|1
+value        --0idate735231 dvalue0
+2014|4|4
+value        --0idate735234 dvalue0
+2014|4|7
+value        --0idate735237 dvalue0
+2014|4|10
+value        --0idate735240 dvalue0
+2014|4|13
+value        --0idate735243 dvalue0
+2014|4|16
+value        --0idate735246 dvalue0
+2014|4|19
+value        --0idate735249 dvalue0
+2014|4|22
+value        --0idate735252 dvalue0
+2014|4|25
+value        --0idate735255 dvalue0
+2014|4|28
+value        --0idate735258 dvalue0
+2014|5|1
+value        --0idate735261 dvalue0
+2014|5|4
+value        --0idate735264 dvalue0
+2014|5|7
+value        --0idate735267 dvalue0
+2014|5|10
+value        --0idate735270 dvalue0
+2014|5|13
+value        --0idate735273 dvalue0
+2014|5|16
+value        --0idate735276 dvalue0
+2014|5|19
+value        --0idate735279 dvalue0
+2014|5|22
+value        --0idate735282 dvalue0
+2014|5|25
+value        --0idate735285 dvalue0
+2014|5|28
+value        --0idate735288 dvalue0
+2014|5|31
+value        --0idate735291 dvalue0
+2014|6|3
+value        --0idate735293 dvalue0
+2014|6|6
+value        --0idate735296 dvalue0
+2014|6|9
+value        --0idate735299 dvalue0
+2014|6|12
+value        --0idate735302 dvalue0
+2014|6|15
+value        --0idate735305 dvalue0
+2014|6|18
+value        --0idate735308 dvalue0
+2014|6|21
+value        --0idate735311 dvalue0
+2014|6|24
+value        --0idate735314 dvalue0
+2014|6|27
+value        --0idate735317 dvalue0
+2014|6|30
+value        --0idate735320 dvalue0
+2014|7|3
+value        --0idate735323 dvalue0
+2014|7|6
+value        --0idate735326 dvalue0
+2014|7|9
+value        --0idate735329 dvalue0
+2014|7|12
+value        --0idate735332 dvalue0
+2014|7|15
+value        --0idate735335 dvalue0
+2014|7|18
+value        --0idate735338 dvalue0
+2014|7|21
+value        --0idate735341 dvalue0
+2014|7|24
+value        --0idate735344 dvalue0
+2014|7|27
+value        --0idate735347 dvalue0
+2014|7|30
+value        --0idate735350 dvalue0
+2014|8|2
+value        --0idate735352 dvalue0
+2014|8|5
+value        --0idate735355 dvalue0
+2014|8|8
+value        --0idate735358 dvalue0
+2014|8|11
+value        --0idate735361 dvalue0
+2014|8|14
+value        --0idate735364 dvalue0
+2014|8|17
+value        --0idate735367 dvalue0
+2014|8|20
+value        --0idate735370 dvalue0
+2014|8|23
+value        --0idate735373 dvalue0
+2014|8|26
+value        --0idate735376 dvalue0
+2014|8|29
+value        --0idate735379 dvalue0
+2014|9|1
+value        --0idate735381 dvalue0
+2014|9|4
+value        --0idate735384 dvalue0
+2014|9|7
+value        --0idate735387 dvalue0
+2014|9|10
+value        --0idate735390 dvalue0
+2014|9|13
+value        --0idate735393 dvalue0
+2014|9|16
+value        --0idate735396 dvalue0
+2014|9|19
+value        --0idate735399 dvalue0
+2014|9|22
+value        --0idate735402 dvalue0
+2014|9|25
+value        --0idate735405 dvalue0
+2014|9|28
+value        --0idate735408 dvalue0
+2014|10|1
+value        --0idate735411 dvalue0
+2014|10|4
+value        --0idate735414 dvalue0
+2014|10|7
+value        --0idate735417 dvalue0
+2014|10|10
+value        --0idate735420 dvalue0
+2014|10|13
+value        --0idate735423 dvalue0
+2014|10|16
+value        --0idate735426 dvalue0
+2014|10|19
+value        --0idate735429 dvalue0
+2014|10|22
+value        --0idate735432 dvalue0
+2014|10|25
+value        --0idate735435 dvalue0
+2014|10|27
+value        --0idate735437 dvalue0
+2014|10|30
+value        --0idate735440 dvalue0
+2014|11|2
+value        --0idate735442 dvalue0
+2014|11|5
+value        --0idate735445 dvalue0
+2014|11|8
+value        --0idate735448 dvalue0
+2014|11|11
+value        --0idate735451 dvalue0
+2014|11|14
+value        --0idate735454 dvalue0
+2014|11|17
+value        --0idate735457 dvalue0
+2014|11|20
+value        --0idate735460 dvalue0
+2014|11|23
+value        --0idate735463 dvalue0
+2014|11|26
+value        --0idate735466 dvalue0
+2014|11|29
+value        --0idate735469 dvalue0
+2014|12|2
+value        --0idate735472 dvalue0
+2014|12|5
+value        --0idate735475 dvalue0
+2014|12|8
+value        --0idate735478 dvalue0
+2014|12|11
+value        --0idate735481 dvalue0
+2014|12|14
+value        --0idate735484 dvalue0
+2014|12|17
+value        --0idate735487 dvalue0
+2014|12|20
+value        --0idate735490 dvalue0
+2014|12|23
+value        --0idate735493 dvalue0
+2014|12|26
+value        --0idate735496 dvalue0
+2014|12|29
+value        --0idate735499 dvalue0
+2015|1|1
+value        --0idate735506 dvalue0
+2015|1|4
+value        --0idate735509 dvalue0
+2015|1|7
+value        --0idate735512 dvalue0
+2015|1|10
+value        --0idate735515 dvalue0
+2015|1|13
+value        --0idate735518 dvalue0
+2015|1|16
+value        --0idate735521 dvalue0
+2015|1|19
+value        --0idate735524 dvalue0
+2015|1|22
+value        --0idate735527 dvalue0
+2015|1|25
+value        --0idate735530 dvalue0
+2015|1|28
+value        --0idate735533 dvalue0
+2015|1|31
+value        --0idate735536 dvalue0
+2015|2|3
+value        --0idate735538 dvalue0
+2015|2|6
+value        --0idate735541 dvalue0
+2015|2|9
+value        --0idate735544 dvalue0
+2015|2|12
+value        --0idate735547 dvalue0
+2015|2|15
+value        --0idate735550 dvalue0
+2015|2|18
+value        --0idate735553 dvalue0
+2015|2|21
+value        --0idate735556 dvalue0
+2015|2|24
+value        --0idate735559 dvalue0
+2015|2|27
+value        --0idate735562 dvalue0
+2015|3|2
+value        --0idate735567 dvalue0
+2015|3|5
+value        --0idate735570 dvalue0
+2015|3|8
+value        --0idate735573 dvalue0
+2015|3|11
+value        --0idate735576 dvalue0
+2015|3|14
+value        --0idate735579 dvalue0
+2015|3|17
+value        --0idate735582 dvalue0
+2015|3|20
+value        --0idate735585 dvalue0
+2015|3|23
+value        --0idate735588 dvalue0
+2015|3|26
+value        --0idate735591 dvalue0
+2015|3|30
+value        --0idate735595 dvalue0
+2015|4|2
+value        --0idate735597 dvalue0
+2015|4|5
+value        --0idate735600 dvalue0
+2015|4|8
+value        --0idate735603 dvalue0
+2015|4|11
+value        --0idate735606 dvalue0
+2015|4|14
+value        --0idate735609 dvalue0
+2015|4|17
+value        --0idate735612 dvalue0
+2015|4|20
+value        --0idate735615 dvalue0
+2015|4|23
+value        --0idate735618 dvalue0
+2015|4|26
+value        --0idate735621 dvalue0
+2015|4|29
+value        --0idate735624 dvalue0
+2015|5|2
+value        --0idate735627 dvalue0
+2015|5|5
+value        --0idate735630 dvalue0
+2015|5|8
+value        --0idate735633 dvalue0
+2015|5|11
+value        --0idate735636 dvalue0
+2015|5|14
+value        --0idate735639 dvalue0
+2015|5|17
+value        --0idate735642 dvalue0
+2015|5|20
+value        --0idate735645 dvalue0
+2015|5|23
+value        --0idate735648 dvalue0
+2015|5|26
+value        --0idate735651 dvalue0
+2015|5|29
+value        --0idate735654 dvalue0
+2015|6|1
+value        --0idate735656 dvalue0
+2015|6|4
+value        --0idate735659 dvalue0
+2015|6|7
+value        --0idate735662 dvalue0
+2015|6|10
+value        --0idate735665 dvalue0
+2015|6|13
+value        --0idate735668 dvalue0
+2015|6|16
+value        --0idate735671 dvalue0
+2015|6|19
+value        --0idate735674 dvalue0
+2015|6|22
+value        --0idate735677 dvalue0
+2015|6|25
+value        --0idate735680 dvalue0
+2015|6|28
+value        --0idate735683 dvalue0
+2015|7|1
+value        --0idate735686 dvalue0
+2015|7|4
+value        --0idate735689 dvalue0
+2015|7|7
+value        --0idate735692 dvalue0
+2015|7|10
+value        --0idate735695 dvalue0
+2015|7|13
+value        --0idate735698 dvalue0
+2015|7|16
+value        --0idate735701 dvalue0
+2015|7|19
+value        --0idate735704 dvalue0
+2015|7|22
+value        --0idate735707 dvalue0
+2015|7|25
+value        --0idate735710 dvalue0
+2015|7|28
+value        --0idate735713 dvalue0
+2015|7|31
+value        --0idate735716 dvalue0
+2015|8|3
+value        --0idate735718 dvalue0
+2015|8|6
+value        --0idate735721 dvalue0
+2015|8|9
+value        --0idate735724 dvalue0
+2015|8|12
+value        --0idate735727 dvalue0
+2015|8|15
+value        --0idate735730 dvalue0
+2015|8|18
+value        --0idate735733 dvalue0
+2015|8|21
+value        --0idate735736 dvalue0
+2015|8|24
+value        --0idate735739 dvalue0
+2015|8|27
+value        --0idate735742 dvalue0
+2015|8|30
+value        --0idate735745 dvalue0
+2015|9|2
+value        --0idate735747 dvalue0
+2015|9|5
+value        --0idate735750 dvalue0
+2015|9|8
+value        --0idate735753 dvalue0
+2015|9|11
+value        --0idate735756 dvalue0
+2015|9|14
+value        --0idate735759 dvalue0
+2015|9|17
+value        --0idate735762 dvalue0
+2015|9|20
+value        --0idate735765 dvalue0
+2015|9|23
+value        --0idate735768 dvalue0
+2015|9|26
+value        --0idate735771 dvalue0
+2015|9|29
+value        --0idate735774 dvalue0
+2015|10|2
+value        --0idate735777 dvalue0
+2015|10|5
+value        --0idate735780 dvalue0
+2015|10|8
+value        --0idate735783 dvalue0
+2015|10|11
+value        --0idate735786 dvalue0
+2015|10|14
+value        --0idate735789 dvalue0
+2015|10|17
+value        --0idate735792 dvalue0
+2015|10|20
+value        --0idate735795 dvalue0
+2015|10|23
+value        --0idate735798 dvalue0
+2015|10|25
+value        --0idate735800 dvalue0
+2015|10|28
+value        --0idate735803 dvalue0
+2015|10|31
+value        --0idate735806 dvalue0
+2015|11|3
+value        --0idate735808 dvalue0
+2015|11|6
+value        --0idate735811 dvalue0
+2015|11|9
+value        --0idate735814 dvalue0
+2015|11|12
+value        --0idate735817 dvalue0
+2015|11|15
+value        --0idate735820 dvalue0
+2015|11|18
+value        --0idate735823 dvalue0
+2015|11|21
+value        --0idate735826 dvalue0
+2015|11|24
+value        --0idate735829 dvalue0
+2015|11|27
+value        --0idate735832 dvalue0
+2015|11|30
+value        --0idate735835 dvalue0
+2015|12|3
+value        --0idate735838 dvalue0
+2015|12|6
+value        --0idate735841 dvalue0
+2015|12|9
+value        --0idate735844 dvalue0
+2015|12|12
+value        --0idate735847 dvalue0
+2015|12|15
+value        --0idate735850 dvalue0
+2015|12|18
+value        --0idate735853 dvalue0
+2015|12|21
+value        --0idate735856 dvalue0
+2015|12|24
+value        --0idate735859 dvalue0
+2015|12|27
+value        --0idate735862 dvalue0
+2015|12|30
+value        --0idate735865 dvalue0
+2016|1|2
+value        --0idate735872 dvalue0
+2016|1|5
+value        --0idate735875 dvalue0
+2016|1|8
+value        --0idate735878 dvalue0
+2016|1|11
+value        --0idate735881 dvalue0
+2016|1|14
+value        --0idate735884 dvalue0
+2016|1|17
+value        --0idate735887 dvalue0
+2016|1|20
+value        --0idate735890 dvalue0
+2016|1|23
+value        --0idate735893 dvalue0
+2016|1|26
+value        --0idate735896 dvalue0
+2016|1|29
+value        --0idate735899 dvalue0
+2016|2|1
+value        --0idate735901 dvalue0
+2016|2|4
+value        --0idate735904 dvalue0
+2016|2|7
+value        --0idate735907 dvalue0
+2016|2|10
+value        --0idate735910 dvalue0
+2016|2|13
+value        --0idate735913 dvalue0
+2016|2|16
+value        --0idate735916 dvalue0
+2016|2|19
+value        --0idate735919 dvalue0
+2016|2|22
+value        --0idate735922 dvalue0
+2016|2|25
+value        --0idate735925 dvalue0
+2016|2|28
+value        --0idate735928 dvalue0
+2016|3|2
+value        --0idate735932 dvalue0
+2016|3|5
+value        --0idate735935 dvalue0
+2016|3|8
+value        --0idate735938 dvalue0
+2016|3|11
+value        --0idate735941 dvalue0
+2016|3|14
+value        --0idate735944 dvalue0
+2016|3|17
+value        --0idate735947 dvalue0
+2016|3|20
+value        --0idate735950 dvalue0
+2016|3|23
+value        --0idate735953 dvalue0
+2016|3|26
+value        --0idate735956 dvalue0
+2016|3|30
+value        --0idate735960 dvalue0
+2016|4|2
+value        --0idate735962 dvalue0
+2016|4|5
+value        --0idate735965 dvalue0
+2016|4|8
+value        --0idate735968 dvalue0
+2016|4|11
+value        --0idate735971 dvalue0
+2016|4|14
+value        --0idate735974 dvalue0
+2016|4|17
+value        --0idate735977 dvalue0
+2016|4|20
+value        --0idate735980 dvalue0
+2016|4|23
+value        --0idate735983 dvalue0
+2016|4|26
+value        --0idate735986 dvalue0
+2016|4|29
+value        --0idate735989 dvalue0
+2016|5|2
+value        --0idate735992 dvalue0
+2016|5|5
+value        --0idate735995 dvalue0
+2016|5|8
+value        --0idate735998 dvalue0
+2016|5|11
+value        --0idate736001 dvalue0
+2016|5|14
+value        --0idate736004 dvalue0
+2016|5|17
+value        --0idate736007 dvalue0
+2016|5|20
+value        --0idate736010 dvalue0
+2016|5|23
+value        --0idate736013 dvalue0
+2016|5|26
+value        --0idate736016 dvalue0
+2016|5|29
+value        --0idate736019 dvalue0
+2016|6|1
+value        --0idate736021 dvalue0
+2016|6|4
+value        --0idate736024 dvalue0
+2016|6|7
+value        --0idate736027 dvalue0
+2016|6|10
+value        --0idate736030 dvalue0
+2016|6|13
+value        --0idate736033 dvalue0
+2016|6|16
+value        --0idate736036 dvalue0
+2016|6|19
+value        --0idate736039 dvalue0
+2016|6|22
+value        --0idate736042 dvalue0
+2016|6|25
+value        --0idate736045 dvalue0
+2016|6|28
+value        --0idate736048 dvalue0
+2016|7|1
+value        --0idate736051 dvalue0
+2016|7|4
+value        --0idate736054 dvalue0
+2016|7|7
+value        --0idate736057 dvalue0
+2016|7|10
+value        --0idate736060 dvalue0
+2016|7|13
+value        --0idate736063 dvalue0
+2016|7|16
+value        --0idate736066 dvalue0
+2016|7|19
+value        --0idate736069 dvalue0
+2016|7|22
+value        --0idate736072 dvalue0
+2016|7|25
+value        --0idate736075 dvalue0
+2016|7|28
+value        --0idate736078 dvalue0
+2016|7|31
+value        --0idate736081 dvalue0
+2016|8|3
+value        --0idate736083 dvalue0
+2016|8|6
+value        --0idate736086 dvalue0
+2016|8|9
+value        --0idate736089 dvalue0
+2016|8|12
+value        --0idate736092 dvalue0
+2016|8|15
+value        --0idate736095 dvalue0
+2016|8|18
+value        --0idate736098 dvalue0
+2016|8|21
+value        --0idate736101 dvalue0
+2016|8|24
+value        --0idate736104 dvalue0
+2016|8|27
+value        --0idate736107 dvalue0
+2016|8|30
+value        --0idate736110 dvalue0
+2016|9|2
+value        --0idate736112 dvalue0
+2016|9|5
+value        --0idate736115 dvalue0
+2016|9|8
+value        --0idate736118 dvalue0
+2016|9|11
+value        --0idate736121 dvalue0
+2016|9|14
+value        --0idate736124 dvalue0
+2016|9|17
+value        --0idate736127 dvalue0
+2016|9|20
+value        --0idate736130 dvalue0
+2016|9|23
+value        --0idate736133 dvalue0
+2016|9|26
+value        --0idate736136 dvalue0
+2016|9|29
+value        --0idate736139 dvalue0
+2016|10|2
+value        --0idate736142 dvalue0
+2016|10|5
+value        --0idate736145 dvalue0
+2016|10|8
+value        --0idate736148 dvalue0
+2016|10|11
+value        --0idate736151 dvalue0
+2016|10|14
+value        --0idate736154 dvalue0
+2016|10|17
+value        --0idate736157 dvalue0
+2016|10|20
+value        --0idate736160 dvalue0
+2016|10|23
+value        --0idate736163 dvalue0
+2016|10|26
+value        --0idate736166 dvalue0
+2016|10|29
+value        --0idate736169 dvalue0
+2016|10|31
+value        --0idate736171 dvalue0
+2016|11|3
+value        --0idate736173 dvalue0
+2016|11|6
+value        --0idate736176 dvalue0
+2016|11|9
+value        --0idate736179 dvalue0
+2016|11|12
+value        --0idate736182 dvalue0
+2016|11|15
+value        --0idate736185 dvalue0
+2016|11|18
+value        --0idate736188 dvalue0
+2016|11|21
+value        --0idate736191 dvalue0
+2016|11|24
+value        --0idate736194 dvalue0
+2016|11|27
+value        --0idate736197 dvalue0
+2016|11|30
+value        --0idate736200 dvalue0
+2016|12|3
+value        --0idate736203 dvalue0
+2016|12|6
+value        --0idate736206 dvalue0
+2016|12|9
+value        --0idate736209 dvalue0
+2016|12|12
+value        --0idate736212 dvalue0
+2016|12|15
+value        --0idate736215 dvalue0
+2016|12|18
+value        --0idate736218 dvalue0
+2016|12|21
+value        --0idate736221 dvalue0
+2016|12|24
+value        --0idate736224 dvalue0
+2016|12|27
+value        --0idate736227 dvalue0
+2016|12|30
+value        --0idate736230 dvalue0
+2017|1|2
+value        --0idate736237 dvalue0
+2017|1|5
+value        --0idate736240 dvalue0
+2017|1|8
+value        --0idate736243 dvalue0
+2017|1|11
+value        --0idate736246 dvalue0
+2017|1|14
+value        --0idate736249 dvalue0
+2017|1|17
+value        --0idate736252 dvalue0
+2017|1|20
+value        --0idate736255 dvalue0
+2017|1|23
+value        --0idate736258 dvalue0
+2017|1|26
+value        --0idate736261 dvalue0
+2017|1|29
+value        --0idate736264 dvalue0
+2017|2|1
+value        --0idate736266 dvalue0
+2017|2|4
+value        --0idate736269 dvalue0
+2017|2|7
+value        --0idate736272 dvalue0
+2017|2|10
+value        --0idate736275 dvalue0
+2017|2|13
+value        --0idate736278 dvalue0
+2017|2|16
+value        --0idate736281 dvalue0
+2017|2|19
+value        --0idate736284 dvalue0
+2017|2|22
+value        --0idate736287 dvalue0
+2017|2|25
+value        --0idate736290 dvalue0
+2017|2|28
+value        --0idate736293 dvalue0
+2017|3|3
+value        --0idate736298 dvalue0
+2017|3|6
+value        --0idate736301 dvalue0
+2017|3|9
+value        --0idate736304 dvalue0
+2017|3|12
+value        --0idate736307 dvalue0
+2017|3|15
+value        --0idate736310 dvalue0
+2017|3|18
+value        --0idate736313 dvalue0
+2017|3|21
+value        --0idate736316 dvalue0
+2017|3|24
+value        --0idate736319 dvalue0
+2017|3|28
+value        --0idate736323 dvalue0
+2017|3|31
+value        --0idate736326 dvalue0
+2017|4|3
+value        --0idate736328 dvalue0
+2017|4|6
+value        --0idate736331 dvalue0
+2017|4|9
+value        --0idate736334 dvalue0
+2017|4|12
+value        --0idate736337 dvalue0
+2017|4|15
+value        --0idate736340 dvalue0
+2017|4|18
+value        --0idate736343 dvalue0
+2017|4|21
+value        --0idate736346 dvalue0
+2017|4|24
+value        --0idate736349 dvalue0
+2017|4|27
+value        --0idate736352 dvalue0
+2017|4|30
+value        --0idate736355 dvalue0
+2017|5|3
+value        --0idate736358 dvalue0
+2017|5|6
+value        --0idate736361 dvalue0
+2017|5|9
+value        --0idate736364 dvalue0
+2017|5|12
+value        --0idate736367 dvalue0
+2017|5|15
+value        --0idate736370 dvalue0
+2017|5|18
+value        --0idate736373 dvalue0
+2017|5|21
+value        --0idate736376 dvalue0
+2017|5|24
+value        --0idate736379 dvalue0
+2017|5|27
+value        --0idate736382 dvalue0
+2017|5|30
+value        --0idate736385 dvalue0
+2017|6|2
+value        --0idate736387 dvalue0
+2017|6|5
+value        --0idate736390 dvalue0
+2017|6|8
+value        --0idate736393 dvalue0
+2017|6|11
+value        --0idate736396 dvalue0
+2017|6|14
+value        --0idate736399 dvalue0
+2017|6|17
+value        --0idate736402 dvalue0
+2017|6|20
+value        --0idate736405 dvalue0
+2017|6|23
+value        --0idate736408 dvalue0
+2017|6|26
+value        --0idate736411 dvalue0
+2017|6|29
+value        --0idate736414 dvalue0
+2017|7|2
+value        --0idate736417 dvalue0
+2017|7|5
+value        --0idate736420 dvalue0
+2017|7|8
+value        --0idate736423 dvalue0
+2017|7|11
+value        --0idate736426 dvalue0
+2017|7|14
+value        --0idate736429 dvalue0
+2017|7|17
+value        --0idate736432 dvalue0
+2017|7|20
+value        --0idate736435 dvalue0
+2017|7|23
+value        --0idate736438 dvalue0
+2017|7|26
+value        --0idate736441 dvalue0
+2017|7|29
+value        --0idate736444 dvalue0
+2017|8|1
+value        --0idate736446 dvalue0
+2017|8|4
+value        --0idate736449 dvalue0
+2017|8|7
+value        --0idate736452 dvalue0
+2017|8|10
+value        --0idate736455 dvalue0
+2017|8|13
+value        --0idate736458 dvalue0
+2017|8|16
+value        --0idate736461 dvalue0
+2017|8|19
+value        --0idate736464 dvalue0
+2017|8|22
+value        --0idate736467 dvalue0
+2017|8|25
+value        --0idate736470 dvalue0
+2017|8|28
+value        --0idate736473 dvalue0
+2017|8|31
+value        --0idate736476 dvalue0
+2017|9|3
+value        --0idate736478 dvalue0
+2017|9|6
+value        --0idate736481 dvalue0
+2017|9|9
+value        --0idate736484 dvalue0
+2017|9|12
+value        --0idate736487 dvalue0
+2017|9|15
+value        --0idate736490 dvalue0
+2017|9|18
+value        --0idate736493 dvalue0
+2017|9|21
+value        --0idate736496 dvalue0
+2017|9|24
+value        --0idate736499 dvalue0
+2017|9|27
+value        --0idate736502 dvalue0
+2017|9|30
+value        --0idate736505 dvalue0
+2017|10|3
+value        --0idate736508 dvalue0
+2017|10|6
+value        --0idate736511 dvalue0
+2017|10|9
+value        --0idate736514 dvalue0
+2017|10|12
+value        --0idate736517 dvalue0
+2017|10|15
+value        --0idate736520 dvalue0
+2017|10|18
+value        --0idate736523 dvalue0
+2017|10|21
+value        --0idate736526 dvalue0
+2017|10|24
+value        --0idate736529 dvalue0
+2017|10|27
+value        --0idate736532 dvalue0
+2017|10|29
+value        --0idate736534 dvalue0
+2017|11|1
+value        --0idate736536 dvalue0
+2017|11|4
+value        --0idate736539 dvalue0
+2017|11|7
+value        --0idate736542 dvalue0
+2017|11|10
+value        --0idate736545 dvalue0
+2017|11|13
+value        --0idate736548 dvalue0
+2017|11|16
+value        --0idate736551 dvalue0
+2017|11|19
+value        --0idate736554 dvalue0
+2017|11|22
+value        --0idate736557 dvalue0
+2017|11|25
+value        --0idate736560 dvalue0
+2017|11|28
+value        --0idate736563 dvalue0
+2017|12|1
+value        --0idate736566 dvalue0
+2017|12|4
+value        --0idate736569 dvalue0
+2017|12|7
+value        --0idate736572 dvalue0
+2017|12|10
+value        --0idate736575 dvalue0
+2017|12|13
+value        --0idate736578 dvalue0
+2017|12|16
+value        --0idate736581 dvalue0
+2017|12|19
+value        --0idate736584 dvalue0
+2017|12|22
+value        --0idate736587 dvalue0
+2017|12|25
+value        --0idate736590 dvalue0
+2017|12|28
+value        --0idate736593 dvalue0
+2017|12|31
+value        --0idate736596 dvalue0
+2018|1|3
+value        --0idate736603 dvalue0
+2018|1|6
+value        --0idate736606 dvalue0
+2018|1|9
+value        --0idate736609 dvalue0
+2018|1|12
+value        --0idate736612 dvalue0
+2018|1|15
+value        --0idate736615 dvalue0
+2018|1|18
+value        --0idate736618 dvalue0
+2018|1|21
+value        --0idate736621 dvalue0
+2018|1|24
+value        --0idate736624 dvalue0
+2018|1|27
+value        --0idate736627 dvalue0
+2018|1|30
+value        --0idate736630 dvalue0
+2018|2|2
+value        --0idate736632 dvalue0
+2018|2|5
+value        --0idate736635 dvalue0
+2018|2|8
+value        --0idate736638 dvalue0
+2018|2|11
+value        --0idate736641 dvalue0
+2018|2|14
+value        --0idate736644 dvalue0
+2018|2|17
+value        --0idate736647 dvalue0
+2018|2|20
+value        --0idate736650 dvalue0
+2018|2|23
+value        --0idate736653 dvalue0
+2018|2|26
+value        --0idate736656 dvalue0
+2018|3|1
+value        --0idate736661 dvalue0
+2018|3|4
+value        --0idate736664 dvalue0
+2018|3|7
+value        --0idate736667 dvalue0
+2018|3|10
+value        --0idate736670 dvalue0
+2018|3|13
+value        --0idate736673 dvalue0
+2018|3|16
+value        --0idate736676 dvalue0
+2018|3|19
+value        --0idate736679 dvalue0
+2018|3|22
+value        --0idate736682 dvalue0
+2018|3|26
+value        --0idate736686 dvalue0
+2018|3|29
+value        --0idate736689 dvalue0
+2018|4|1
+value        --0idate736691 dvalue0
+2018|4|4
+value        --0idate736694 dvalue0
+2018|4|7
+value        --0idate736697 dvalue0
+2018|4|10
+value        --0idate736700 dvalue0
+2018|4|13
+value        --0idate736703 dvalue0
+2018|4|16
+value        --0idate736706 dvalue0
+2018|4|19
+value        --0idate736709 dvalue0
+2018|4|22
+value        --0idate736712 dvalue0
+2018|4|25
+value        --0idate736715 dvalue0
+2018|4|28
+value        --0idate736718 dvalue0
+2018|5|1
+value        --0idate736721 dvalue0
+2018|5|4
+value        --0idate736724 dvalue0
+2018|5|7
+value        --0idate736727 dvalue0
+2018|5|10
+value        --0idate736730 dvalue0
+2018|5|13
+value        --0idate736733 dvalue0
+2018|5|16
+value        --0idate736736 dvalue0
+2018|5|19
+value        --0idate736739 dvalue0
+2018|5|22
+value        --0idate736742 dvalue0
+2018|5|25
+value        --0idate736745 dvalue0
+2018|5|28
+value        --0idate736748 dvalue0
+2018|5|31
+value        --0idate736751 dvalue0
+2018|6|3
+value        --0idate736753 dvalue0
+2018|6|6
+value        --0idate736756 dvalue0
+2018|6|9
+value        --0idate736759 dvalue0
+2018|6|12
+value        --0idate736762 dvalue0
+2018|6|15
+value        --0idate736765 dvalue0
+2018|6|18
+value        --0idate736768 dvalue0
+2018|6|21
+value        --0idate736771 dvalue0
+2018|6|24
+value        --0idate736774 dvalue0
+2018|6|27
+value        --0idate736777 dvalue0
+2018|6|30
+value        --0idate736780 dvalue0
+2018|7|3
+value        --0idate736783 dvalue0
+2018|7|6
+value        --0idate736786 dvalue0
+2018|7|9
+value        --0idate736789 dvalue0
+2018|7|12
+value        --0idate736792 dvalue0
+2018|7|15
+value        --0idate736795 dvalue0
+2018|7|18
+value        --0idate736798 dvalue0
+2018|7|21
+value        --0idate736801 dvalue0
+2018|7|24
+value        --0idate736804 dvalue0
+2018|7|27
+value        --0idate736807 dvalue0
+2018|7|30
+value        --0idate736810 dvalue0
+2018|8|2
+value        --0idate736812 dvalue0
+2018|8|5
+value        --0idate736815 dvalue0
+2018|8|8
+value        --0idate736818 dvalue0
+2018|8|11
+value        --0idate736821 dvalue0
+2018|8|14
+value        --0idate736824 dvalue0
+2018|8|17
+value        --0idate736827 dvalue0
+2018|8|20
+value        --0idate736830 dvalue0
+2018|8|23
+value        --0idate736833 dvalue0
+2018|8|26
+value        --0idate736836 dvalue0
+2018|8|29
+value        --0idate736839 dvalue0
+2018|9|1
+value        --0idate736841 dvalue0
+2018|9|4
+value        --0idate736844 dvalue0
+2018|9|7
+value        --0idate736847 dvalue0
+2018|9|10
+value        --0idate736850 dvalue0
+2018|9|13
+value        --0idate736853 dvalue0
+2018|9|16
+value        --0idate736856 dvalue0
+2018|9|19
+value        --0idate736859 dvalue0
+2018|9|22
+value        --0idate736862 dvalue0
+2018|9|25
+value        --0idate736865 dvalue0
+2018|9|28
+value        --0idate736868 dvalue0
+2018|10|1
+value        --0idate736871 dvalue0
+2018|10|4
+value        --0idate736874 dvalue0
+2018|10|7
+value        --0idate736877 dvalue0
+2018|10|10
+value        --0idate736880 dvalue0
+2018|10|13
+value        --0idate736883 dvalue0
+2018|10|16
+value        --0idate736886 dvalue0
+2018|10|19
+value        --0idate736889 dvalue0
+2018|10|22
+value        --0idate736892 dvalue0
+2018|10|25
+value        --0idate736895 dvalue0
+2018|10|28
+value        --0idate736898 dvalue0
+2018|10|30
+value        --0idate736900 dvalue0
+2018|11|2
+value        --0idate736902 dvalue0
+2018|11|5
+value        --0idate736905 dvalue0
+2018|11|8
+value        --0idate736908 dvalue0
+2018|11|11
+value        --0idate736911 dvalue0
+2018|11|14
+value        --0idate736914 dvalue0
+2018|11|17
+value        --0idate736917 dvalue0
+2018|11|20
+value        --0idate736920 dvalue0
+2018|11|23
+value        --0idate736923 dvalue0
+2018|11|26
+value        --0idate736926 dvalue0
+2018|11|29
+value        --0idate736929 dvalue0
+2018|12|2
+value        --0idate736932 dvalue0
+2018|12|5
+value        --0idate736935 dvalue0
+2018|12|8
+value        --0idate736938 dvalue0
+2018|12|11
+value        --0idate736941 dvalue0
+2018|12|14
+value        --0idate736944 dvalue0
+2018|12|17
+value        --0idate736947 dvalue0
+2018|12|20
+value        --0idate736950 dvalue0
+2018|12|23
+value        --0idate736953 dvalue0
+2018|12|26
+value        --0idate736956 dvalue0
+2018|12|29
+value        --0idate736959 dvalue0
+2019|1|1
+value        --0idate736966 dvalue0
+2019|1|4
+value        --0idate736969 dvalue0
+2019|1|7
+value        --0idate736972 dvalue0
+2019|1|10
+value        --0idate736975 dvalue0
+2019|1|13
+value        --0idate736978 dvalue0
+2019|1|16
+value        --0idate736981 dvalue0
+2019|1|19
+value        --0idate736984 dvalue0
+2019|1|22
+value        --0idate736987 dvalue0
+2019|1|25
+value        --0idate736990 dvalue0
+2019|1|28
+value        --0idate736993 dvalue0
+2019|1|31
+value        --0idate736996 dvalue0
+2019|2|3
+value        --0idate736998 dvalue0
+2019|2|6
+value        --0idate737001 dvalue0
+2019|2|9
+value        --0idate737004 dvalue0
+2019|2|12
+value        --0idate737007 dvalue0
+2019|2|15
+value        --0idate737010 dvalue0
+2019|2|18
+value        --0idate737013 dvalue0
+2019|2|21
+value        --0idate737016 dvalue0
+2019|2|24
+value        --0idate737019 dvalue0
+2019|2|27
+value        --0idate737022 dvalue0
+2019|3|2
+value        --0idate737027 dvalue0
+2019|3|5
+value        --0idate737030 dvalue0
+2019|3|8
+value        --0idate737033 dvalue0
+2019|3|11
+value        --0idate737036 dvalue0
+2019|3|14
+value        --0idate737039 dvalue0
+2019|3|17
+value        --0idate737042 dvalue0
+2019|3|20
+value        --0idate737045 dvalue0
+2019|3|23
+value        --0idate737048 dvalue0
+2019|3|26
+value        --0idate737051 dvalue0
+2019|3|29
+value        --0idate737054 dvalue0
+2019|4|2
+value        --0idate737057 dvalue0
+2019|4|5
+value        --0idate737060 dvalue0
+2019|4|8
+value        --0idate737063 dvalue0
+2019|4|11
+value        --0idate737066 dvalue0
+2019|4|14
+value        --0idate737069 dvalue0
+2019|4|17
+value        --0idate737072 dvalue0
+2019|4|20
+value        --0idate737075 dvalue0
+2019|4|23
+value        --0idate737078 dvalue0
+2019|4|26
+value        --0idate737081 dvalue0
+2019|4|29
+value        --0idate737084 dvalue0
+2019|5|2
+value        --0idate737087 dvalue0
+2019|5|5
+value        --0idate737090 dvalue0
+2019|5|8
+value        --0idate737093 dvalue0
+2019|5|11
+value        --0idate737096 dvalue0
+2019|5|14
+value        --0idate737099 dvalue0
+2019|5|17
+value        --0idate737102 dvalue0
+2019|5|20
+value        --0idate737105 dvalue0
+2019|5|23
+value        --0idate737108 dvalue0
+2019|5|26
+value        --0idate737111 dvalue0
+2019|5|29
+value        --0idate737114 dvalue0
+2019|6|1
+value        --0idate737116 dvalue0
+2019|6|4
+value        --0idate737119 dvalue0
+2019|6|7
+value        --0idate737122 dvalue0
+2019|6|10
+value        --0idate737125 dvalue0
+2019|6|13
+value        --0idate737128 dvalue0
+2019|6|16
+value        --0idate737131 dvalue0
+2019|6|19
+value        --0idate737134 dvalue0
+2019|6|22
+value        --0idate737137 dvalue0
+2019|6|25
+value        --0idate737140 dvalue0
+2019|6|28
+value        --0idate737143 dvalue0
+2019|7|1
+value        --0idate737146 dvalue0
+2019|7|4
+value        --0idate737149 dvalue0
+2019|7|7
+value        --0idate737152 dvalue0
+2019|7|10
+value        --0idate737155 dvalue0
+2019|7|13
+value        --0idate737158 dvalue0
+2019|7|16
+value        --0idate737161 dvalue0
+2019|7|19
+value        --0idate737164 dvalue0
+2019|7|22
+value        --0idate737167 dvalue0
+2019|7|25
+value        --0idate737170 dvalue0
+2019|7|28
+value        --0idate737173 dvalue0
+2019|7|31
+value        --0idate737176 dvalue0
+2019|8|3
+value        --0idate737178 dvalue0
+2019|8|6
+value        --0idate737181 dvalue0
+2019|8|9
+value        --0idate737184 dvalue0
+2019|8|12
+value        --0idate737187 dvalue0
+2019|8|15
+value        --0idate737190 dvalue0
+2019|8|18
+value        --0idate737193 dvalue0
+2019|8|21
+value        --0idate737196 dvalue0
+2019|8|24
+value        --0idate737199 dvalue0
+2019|8|27
+value        --0idate737202 dvalue0
+2019|8|30
+value        --0idate737205 dvalue0
+2019|9|2
+value        --0idate737207 dvalue0
+2019|9|5
+value        --0idate737210 dvalue0
+2019|9|8
+value        --0idate737213 dvalue0
+2019|9|11
+value        --0idate737216 dvalue0
+2019|9|14
+value        --0idate737219 dvalue0
+2019|9|17
+value        --0idate737222 dvalue0
+2019|9|20
+value        --0idate737225 dvalue0
+2019|9|23
+value        --0idate737228 dvalue0
+2019|9|26
+value        --0idate737231 dvalue0
+2019|9|29
+value        --0idate737234 dvalue0
+2019|10|2
+value        --0idate737237 dvalue0
+2019|10|5
+value        --0idate737240 dvalue0
+2019|10|8
+value        --0idate737243 dvalue0
+2019|10|11
+value        --0idate737246 dvalue0
+2019|10|14
+value        --0idate737249 dvalue0
+2019|10|17
+value        --0idate737252 dvalue0
+2019|10|20
+value        --0idate737255 dvalue0
+2019|10|23
+value        --0idate737258 dvalue0
+2019|10|26
+value        --0idate737261 dvalue0
+2019|10|28
+value        --0idate737263 dvalue0
+2019|10|31
+value        --0idate737266 dvalue0
+2019|11|3
+value        --0idate737268 dvalue0
+2019|11|6
+value        --0idate737271 dvalue0
+2019|11|9
+value        --0idate737274 dvalue0
+2019|11|12
+value        --0idate737277 dvalue0
+2019|11|15
+value        --0idate737280 dvalue0
+2019|11|18
+value        --0idate737283 dvalue0
+2019|11|21
+value        --0idate737286 dvalue0
+2019|11|24
+value        --0idate737289 dvalue0
+2019|11|27
+value        --0idate737292 dvalue0
+2019|11|30
+value        --0idate737295 dvalue0
+2019|12|3
+value        --0idate737298 dvalue0
+2019|12|6
+value        --0idate737301 dvalue0
+2019|12|9
+value        --0idate737304 dvalue0
+2019|12|12
+value        --0idate737307 dvalue0
+2019|12|15
+value        --0idate737310 dvalue0
+2019|12|18
+value        --0idate737313 dvalue0
+2019|12|21
+value        --0idate737316 dvalue0
+2019|12|24
+value        --0idate737319 dvalue0
+2019|12|27
+value        --0idate737322 dvalue0
+2019|12|30
+value        --0idate737325 dvalue0
+2020|1|2
+value        --0idate737332 dvalue0
+2020|1|5
+value        --0idate737335 dvalue0
+2020|1|8
+value        --0idate737338 dvalue0
+2020|1|11
+value        --0idate737341 dvalue0
+2020|1|14
+value        --0idate737344 dvalue0
+2020|1|17
+value        --0idate737347 dvalue0
+2020|1|20
+value        --0idate737350 dvalue0
+2020|1|23
+value        --0idate737353 dvalue0
+2020|1|26
+value        --0idate737356 dvalue0
+2020|1|29
+value        --0idate737359 dvalue0
+2020|2|1
+value        --0idate737361 dvalue0
+2020|2|4
+value        --0idate737364 dvalue0
+2020|2|7
+value        --0idate737367 dvalue0
+2020|2|10
+value        --0idate737370 dvalue0
+2020|2|13
+value        --0idate737373 dvalue0
+2020|2|16
+value        --0idate737376 dvalue0
+2020|2|19
+value        --0idate737379 dvalue0
+2020|2|22
+value        --0idate737382 dvalue0
+2020|2|25
+value        --0idate737385 dvalue0
+2020|2|28
+value        --0idate737388 dvalue0
+2020|3|2
+value        --0idate737392 dvalue0
+2020|3|5
+value        --0idate737395 dvalue0
+2020|3|8
+value        --0idate737398 dvalue0
+2020|3|11
+value        --0idate737401 dvalue0
+2020|3|14
+value        --0idate737404 dvalue0
+2020|3|17
+value        --0idate737407 dvalue0
+2020|3|20
+value        --0idate737410 dvalue0
+2020|3|23
+value        --0idate737413 dvalue0
+2020|3|26
+value        --0idate737416 dvalue0
+2020|3|30
+value        --0idate737420 dvalue0
+2020|4|2
+value        --0idate737422 dvalue0
+2020|4|5
+value        --0idate737425 dvalue0
+2020|4|8
+value        --0idate737428 dvalue0
+2020|4|11
+value        --0idate737431 dvalue0
+2020|4|14
+value        --0idate737434 dvalue0
+2020|4|17
+value        --0idate737437 dvalue0
+2020|4|20
+value        --0idate737440 dvalue0
+2020|4|23
+value        --0idate737443 dvalue0
+2020|4|26
+value        --0idate737446 dvalue0
+2020|4|29
+value        --0idate737449 dvalue0
+2020|5|2
+value        --0idate737452 dvalue0
+2020|5|5
+value        --0idate737455 dvalue0
+2020|5|8
+value        --0idate737458 dvalue0
+2020|5|11
+value        --0idate737461 dvalue0
+2020|5|14
+value        --0idate737464 dvalue0
+2020|5|17
+value        --0idate737467 dvalue0
+2020|5|20
+value        --0idate737470 dvalue0
+2020|5|23
+value        --0idate737473 dvalue0
+2020|5|26
+value        --0idate737476 dvalue0
+2020|5|29
+value        --0idate737479 dvalue0
+2020|6|1
+value        --0idate737481 dvalue0
+2020|6|4
+value        --0idate737484 dvalue0
+2020|6|7
+value        --0idate737487 dvalue0
+2020|6|10
+value        --0idate737490 dvalue0
+2020|6|13
+value        --0idate737493 dvalue0
+2020|6|16
+value        --0idate737496 dvalue0
+2020|6|19
+value        --0idate737499 dvalue0
+2020|6|22
+value        --0idate737502 dvalue0
+2020|6|25
+value        --0idate737505 dvalue0
+2020|6|28
+value        --0idate737508 dvalue0
+2020|7|1
+value        --0idate737511 dvalue0
+2020|7|4
+value        --0idate737514 dvalue0
+2020|7|7
+value        --0idate737517 dvalue0
+2020|7|10
+value        --0idate737520 dvalue0
+2020|7|13
+value        --0idate737523 dvalue0
+2020|7|16
+value        --0idate737526 dvalue0
+2020|7|19
+value        --0idate737529 dvalue0
+2020|7|22
+value        --0idate737532 dvalue0
+2020|7|25
+value        --0idate737535 dvalue0
+2020|7|28
+value        --0idate737538 dvalue0
+2020|7|31
+value        --0idate737541 dvalue0
+2020|8|3
+value        --0idate737543 dvalue0
+2020|8|6
+value        --0idate737546 dvalue0
+2020|8|9
+value        --0idate737549 dvalue0
+2020|8|12
+value        --0idate737552 dvalue0
+2020|8|15
+value        --0idate737555 dvalue0
+2020|8|18
+value        --0idate737558 dvalue0
+2020|8|21
+value        --0idate737561 dvalue0
+2020|8|24
+value        --0idate737564 dvalue0
+2020|8|27
+value        --0idate737567 dvalue0
+2020|8|30
+value        --0idate737570 dvalue0
+2020|9|2
+value        --0idate737572 dvalue0
+2020|9|5
+value        --0idate737575 dvalue0
+2020|9|8
+value        --0idate737578 dvalue0
+2020|9|11
+value        --0idate737581 dvalue0
+2020|9|14
+value        --0idate737584 dvalue0
+2020|9|17
+value        --0idate737587 dvalue0
+2020|9|20
+value        --0idate737590 dvalue0
+2020|9|23
+value        --0idate737593 dvalue0
+2020|9|26
+value        --0idate737596 dvalue0
+2020|9|29
+value        --0idate737599 dvalue0
+2020|10|2
+value        --0idate737602 dvalue0
+2020|10|5
+value        --0idate737605 dvalue0
+2020|10|8
+value        --0idate737608 dvalue0
+2020|10|11
+value        --0idate737611 dvalue0
+2020|10|14
+value        --0idate737614 dvalue0
+2020|10|17
+value        --0idate737617 dvalue0
+2020|10|20
+value        --0idate737620 dvalue0
+2020|10|23
+value        --0idate737623 dvalue0
+2020|10|25
+value        --0idate737625 dvalue0
+2020|10|28
+value        --0idate737628 dvalue0
+2020|10|31
+value        --0idate737631 dvalue0
+2020|11|3
+value        --0idate737633 dvalue0
+2020|11|6
+value        --0idate737636 dvalue0
+2020|11|9
+value        --0idate737639 dvalue0
+2020|11|12
+value        --0idate737642 dvalue0
+2020|11|15
+value        --0idate737645 dvalue0
+2020|11|18
+value        --0idate737648 dvalue0
+2020|11|21
+value        --0idate737651 dvalue0
+2020|11|24
+value        --0idate737654 dvalue0
+2020|11|27
+value        --0idate737657 dvalue0
+2020|11|30
+value        --0idate737660 dvalue0
+2020|12|3
+value        --0idate737663 dvalue0
+2020|12|6
+value        --0idate737666 dvalue0
+2020|12|9
+value        --0idate737669 dvalue0
+2020|12|12
+value        --0idate737672 dvalue0
+2020|12|15
+value        --0idate737675 dvalue0
+2020|12|18
+value        --0idate737678 dvalue0
+2020|12|21
+value        --0idate737681 dvalue0
+2020|12|24
+value        --0idate737684 dvalue0
+2020|12|27
+value        --0idate737687 dvalue0
+2020|12|30
+value        --0idate737690 dvalue0
+2021|1|2
+value        --0idate737697 dvalue0
+2021|1|5
+value        --0idate737700 dvalue0
+2021|1|8
+value        --0idate737703 dvalue0
+2021|1|11
+value        --0idate737706 dvalue0
+2021|1|14
+value        --0idate737709 dvalue0
+2021|1|17
+value        --0idate737712 dvalue0
+2021|1|20
+value        --0idate737715 dvalue0
+2021|1|23
+value        --0idate737718 dvalue0
+2021|1|26
+value        --0idate737721 dvalue0
+2021|1|29
+value        --0idate737724 dvalue0
+2021|2|1
+value        --0idate737726 dvalue0
+2021|2|4
+value        --0idate737729 dvalue0
+2021|2|7
+value        --0idate737732 dvalue0
+2021|2|10
+value        --0idate737735 dvalue0
+2021|2|13
+value        --0idate737738 dvalue0
+2021|2|16
+value        --0idate737741 dvalue0
+2021|2|19
+value        --0idate737744 dvalue0
+2021|2|22
+value        --0idate737747 dvalue0
+2021|2|25
+value        --0idate737750 dvalue0
+2021|2|28
+value        --0idate737753 dvalue0
+2021|3|3
+value        --0idate737758 dvalue0
+2021|3|6
+value        --0idate737761 dvalue0
+2021|3|9
+value        --0idate737764 dvalue0
+2021|3|12
+value        --0idate737767 dvalue0
+2021|3|15
+value        --0idate737770 dvalue0
+2021|3|18
+value        --0idate737773 dvalue0
+2021|3|21
+value        --0idate737776 dvalue0
+2021|3|24
+value        --0idate737779 dvalue0
+2021|3|27
+value        --0idate737782 dvalue0
+2021|3|31
+value        --0idate737786 dvalue0
+2021|4|3
+value        --0idate737788 dvalue0
+2021|4|6
+value        --0idate737791 dvalue0
+2021|4|9
+value        --0idate737794 dvalue0
+2021|4|12
+value        --0idate737797 dvalue0
+2021|4|15
+value        --0idate737800 dvalue0
+2021|4|18
+value        --0idate737803 dvalue0
+2021|4|21
+value        --0idate737806 dvalue0
+2021|4|24
+value        --0idate737809 dvalue0
+2021|4|27
+value        --0idate737812 dvalue0
+2021|4|30
+value        --0idate737815 dvalue0
+2021|5|3
+value        --0idate737818 dvalue0
+2021|5|6
+value        --0idate737821 dvalue0
+2021|5|9
+value        --0idate737824 dvalue0
+2021|5|12
+value        --0idate737827 dvalue0
+2021|5|15
+value        --0idate737830 dvalue0
+2021|5|18
+value        --0idate737833 dvalue0
+2021|5|21
+value        --0idate737836 dvalue0
+2021|5|24
+value        --0idate737839 dvalue0
+2021|5|27
+value        --0idate737842 dvalue0
+2021|5|30
+value        --0idate737845 dvalue0
+2021|6|2
+value        --0idate737847 dvalue0
+2021|6|5
+value        --0idate737850 dvalue0
+2021|6|8
+value        --0idate737853 dvalue0
+2021|6|11
+value        --0idate737856 dvalue0
+2021|6|14
+value        --0idate737859 dvalue0
+2021|6|17
+value        --0idate737862 dvalue0
+2021|6|20
+value        --0idate737865 dvalue0
+2021|6|23
+value        --0idate737868 dvalue0
+2021|6|26
+value        --0idate737871 dvalue0
+2021|6|29
+value        --0idate737874 dvalue0
+2021|7|2
+value        --0idate737877 dvalue0
+2021|7|5
+value        --0idate737880 dvalue0
+2021|7|8
+value        --0idate737883 dvalue0
+2021|7|11
+value        --0idate737886 dvalue0
+2021|7|14
+value        --0idate737889 dvalue0
+2021|7|17
+value        --0idate737892 dvalue0
+2021|7|20
+value        --0idate737895 dvalue0
+2021|7|23
+value        --0idate737898 dvalue0
+2021|7|26
+value        --0idate737901 dvalue0
+2021|7|29
+value        --0idate737904 dvalue0
+2021|8|1
+value        --0idate737906 dvalue0
+2021|8|4
+value        --0idate737909 dvalue0
+2021|8|7
+value        --0idate737912 dvalue0
+2021|8|10
+value        --0idate737915 dvalue0
+2021|8|13
+value        --0idate737918 dvalue0
+2021|8|16
+value        --0idate737921 dvalue0
+2021|8|19
+value        --0idate737924 dvalue0
+2021|8|22
+value        --0idate737927 dvalue0
+2021|8|25
+value        --0idate737930 dvalue0
+2021|8|28
+value        --0idate737933 dvalue0
+2021|8|31
+value        --0idate737936 dvalue0
+2021|9|3
+value        --0idate737938 dvalue0
+2021|9|6
+value        --0idate737941 dvalue0
+2021|9|9
+value        --0idate737944 dvalue0
+2021|9|12
+value        --0idate737947 dvalue0
+2021|9|15
+value        --0idate737950 dvalue0
+2021|9|18
+value        --0idate737953 dvalue0
+2021|9|21
+value        --0idate737956 dvalue0
+2021|9|24
+value        --0idate737959 dvalue0
+2021|9|27
+value        --0idate737962 dvalue0
+2021|9|30
+value        --0idate737965 dvalue0
+2021|10|3
+value        --0idate737968 dvalue0
+2021|10|6
+value        --0idate737971 dvalue0
+2021|10|9
+value        --0idate737974 dvalue0
+2021|10|12
+value        --0idate737977 dvalue0
+2021|10|15
+value        --0idate737980 dvalue0
+2021|10|18
+value        --0idate737983 dvalue0
+2021|10|21
+value        --0idate737986 dvalue0
+2021|10|24
+value        --0idate737989 dvalue0
+2021|10|27
+value        --0idate737992 dvalue0
+2021|10|30
+value        --0idate737995 dvalue0
+2021|11|1
+value        --0idate737996 dvalue0
+2021|11|4
+value        --0idate737999 dvalue0
+2021|11|7
+value        --0idate738002 dvalue0
+2021|11|10
+value        --0idate738005 dvalue0
+2021|11|13
+value        --0idate738008 dvalue0
+2021|11|16
+value        --0idate738011 dvalue0
+2021|11|19
+value        --0idate738014 dvalue0
+2021|11|22
+value        --0idate738017 dvalue0
+2021|11|25
+value        --0idate738020 dvalue0
+2021|11|28
+value        --0idate738023 dvalue0
+2021|12|1
+value        --0idate738026 dvalue0
+2021|12|4
+value        --0idate738029 dvalue0
+2021|12|7
+value        --0idate738032 dvalue0
+2021|12|10
+value        --0idate738035 dvalue0
+2021|12|13
+value        --0idate738038 dvalue0
+2021|12|16
+value        --0idate738041 dvalue0
+2021|12|19
+value        --0idate738044 dvalue0
+2021|12|22
+value        --0idate738047 dvalue0
+2021|12|25
+value        --0idate738050 dvalue0
+2021|12|28
+value        --0idate738053 dvalue0
+2021|12|31
+value        --0idate738056 dvalue0
+2022|1|3
+value        --0idate738063 dvalue0
+2022|1|6
+value        --0idate738066 dvalue0
+2022|1|9
+value        --0idate738069 dvalue0
+2022|1|12
+value        --0idate738072 dvalue0
+2022|1|15
+value        --0idate738075 dvalue0
+2022|1|18
+value        --0idate738078 dvalue0
+2022|1|21
+value        --0idate738081 dvalue0
+2022|1|24
+value        --0idate738084 dvalue0
+2022|1|27
+value        --0idate738087 dvalue0
+2022|1|30
+value        --0idate738090 dvalue0
+2022|2|2
+value        --0idate738092 dvalue0
+2022|2|5
+value        --0idate738095 dvalue0
+2022|2|8
+value        --0idate738098 dvalue0
+2022|2|11
+value        --0idate738101 dvalue0
+2022|2|14
+value        --0idate738104 dvalue0
+2022|2|17
+value        --0idate738107 dvalue0
+2022|2|20
+value        --0idate738110 dvalue0
+2022|2|23
+value        --0idate738113 dvalue0
+2022|2|26
+value        --0idate738116 dvalue0
+2022|3|1
+value        --0idate738121 dvalue0
+2022|3|4
+value        --0idate738124 dvalue0
+2022|3|7
+value        --0idate738127 dvalue0
+2022|3|10
+value        --0idate738130 dvalue0
+2022|3|13
+value        --0idate738133 dvalue0
+2022|3|16
+value        --0idate738136 dvalue0
+2022|3|19
+value        --0idate738139 dvalue0
+2022|3|22
+value        --0idate738142 dvalue0
+2022|3|25
+value        --0idate738145 dvalue0
+2022|3|29
+value        --0idate738149 dvalue0
+Key: 0, Value: 0
+Key: 733317, Value: 0
+Key: 733320, Value: 0
+Key: 733323, Value: 0
+Key: 733326, Value: 0
+Key: 733329, Value: 0
+Key: 733332, Value: 0
+Key: 733335, Value: 0
+Key: 733338, Value: 0
+Key: 733341, Value: 0
+Key: 733344, Value: 0
+Key: 733346, Value: 0
+Key: 733349, Value: 0
+Key: 733352, Value: 0
+Key: 733355, Value: 0
+Key: 733358, Value: 0
+Key: 733361, Value: 0
+Key: 733364, Value: 0
+Key: 733367, Value: 0
+Key: 733370, Value: 0
+Key: 733373, Value: 0
+Key: 733378, Value: 0
+Key: 733381, Value: 0
+Key: 733384, Value: 0
+Key: 733387, Value: 0
+Key: 733390, Value: 0
+Key: 733393, Value: 0
+Key: 733396, Value: 0
+Key: 733399, Value: 0
+Key: 733402, Value: 0
+Key: 733406, Value: 0
+Key: 733408, Value: 0
+Key: 733411, Value: 0
+Key: 733414, Value: 0
+Key: 733417, Value: 0
+Key: 733420, Value: 0
+Key: 733423, Value: 0
+Key: 733426, Value: 0
+Key: 733429, Value: 0
+Key: 733432, Value: 0
+Key: 733435, Value: 0
+Key: 733438, Value: 0
+Key: 733441, Value: 0
+Key: 733444, Value: 0
+Key: 733447, Value: 0
+Key: 733450, Value: 0
+Key: 733453, Value: 0
+Key: 733456, Value: 0
+Key: 733459, Value: 0
+Key: 733462, Value: 0
+Key: 733465, Value: 0
+Key: 733467, Value: 0
+Key: 733470, Value: 0
+Key: 733473, Value: 0
+Key: 733476, Value: 0
+Key: 733479, Value: 0
+Key: 733482, Value: 0
+Key: 733485, Value: 0
+Key: 733488, Value: 0
+Key: 733491, Value: 0
+Key: 733494, Value: 0
+Key: 733497, Value: 0
+Key: 733500, Value: 0
+Key: 733503, Value: 0
+Key: 733506, Value: 0
+Key: 733509, Value: 0
+Key: 733512, Value: 0
+Key: 733515, Value: 0
+Key: 733518, Value: 0
+Key: 733521, Value: 0
+Key: 733524, Value: 0
+Key: 733526, Value: 0
+Key: 733529, Value: 0
+Key: 733532, Value: 0
+Key: 733535, Value: 0
+Key: 733538, Value: 0
+Key: 733541, Value: 0
+Key: 733544, Value: 0
+Key: 733547, Value: 0
+Key: 733550, Value: 0
+Key: 733553, Value: 0
+Key: 733556, Value: 0
+Key: 733558, Value: 0
+Key: 733561, Value: 0
+Key: 733564, Value: 0
+Key: 733567, Value: 0
+Key: 733570, Value: 0
+Key: 733573, Value: 0
+Key: 733576, Value: 0
+Key: 733579, Value: 0
+Key: 733582, Value: 0
+Key: 733585, Value: 0
+Key: 733588, Value: 0
+Key: 733591, Value: 0
+Key: 733594, Value: 0
+Key: 733597, Value: 0
+Key: 733600, Value: 0
+Key: 733603, Value: 0
+Key: 733606, Value: 0
+Key: 733609, Value: 0
+Key: 733611, Value: 0
+Key: 733614, Value: 0
+Key: 733616, Value: 0
+Key: 733619, Value: 0
+Key: 733622, Value: 0
+Key: 733625, Value: 0
+Key: 733628, Value: 0
+Key: 733631, Value: 0
+Key: 733634, Value: 0
+Key: 733637, Value: 0
+Key: 733640, Value: 0
+Key: 733643, Value: 0
+Key: 733646, Value: 0
+Key: 733649, Value: 0
+Key: 733652, Value: 0
+Key: 733655, Value: 0
+Key: 733658, Value: 0
+Key: 733661, Value: 0
+Key: 733664, Value: 0
+Key: 733667, Value: 0
+Key: 733670, Value: 0
+Key: 733673, Value: 0
+Key: 733676, Value: 0
+Key: 733683, Value: 0
+Key: 733686, Value: 0
+Key: 733689, Value: 0
+Key: 733692, Value: 0
+Key: 733695, Value: 0
+Key: 733698, Value: 0
+Key: 733701, Value: 0
+Key: 733704, Value: 0
+Key: 733707, Value: 0
+Key: 733710, Value: 0
+Key: 733712, Value: 0
+Key: 733715, Value: 0
+Key: 733718, Value: 0
+Key: 733721, Value: 0
+Key: 733724, Value: 0
+Key: 733727, Value: 0
+Key: 733730, Value: 0
+Key: 733733, Value: 0
+Key: 733736, Value: 0
+Key: 733741, Value: 0
+Key: 733744, Value: 0
+Key: 733747, Value: 0
+Key: 733750, Value: 0
+Key: 733753, Value: 0
+Key: 733756, Value: 0
+Key: 733759, Value: 0
+Key: 733762, Value: 0
+Key: 733765, Value: 0
+Key: 733769, Value: 0
+Key: 733771, Value: 0
+Key: 733774, Value: 0
+Key: 733777, Value: 0
+Key: 733780, Value: 0
+Key: 733783, Value: 0
+Key: 733786, Value: 0
+Key: 733789, Value: 0
+Key: 733792, Value: 0
+Key: 733795, Value: 0
+Key: 733798, Value: 0
+Key: 733801, Value: 0
+Key: 733804, Value: 0
+Key: 733807, Value: 0
+Key: 733810, Value: 0
+Key: 733813, Value: 0
+Key: 733816, Value: 0
+Key: 733819, Value: 0
+Key: 733822, Value: 0
+Key: 733825, Value: 0
+Key: 733828, Value: 0
+Key: 733831, Value: 0
+Key: 733833, Value: 0
+Key: 733836, Value: 0
+Key: 733839, Value: 0
+Key: 733842, Value: 0
+Key: 733845, Value: 0
+Key: 733848, Value: 0
+Key: 733851, Value: 0
+Key: 733854, Value: 0
+Key: 733857, Value: 0
+Key: 733860, Value: 0
+Key: 733863, Value: 0
+Key: 733866, Value: 0
+Key: 733869, Value: 0
+Key: 733872, Value: 0
+Key: 733875, Value: 0
+Key: 733878, Value: 0
+Key: 733881, Value: 0
+Key: 733884, Value: 0
+Key: 733887, Value: 0
+Key: 733890, Value: 0
+Key: 733892, Value: 0
+Key: 733895, Value: 0
+Key: 733898, Value: 0
+Key: 733901, Value: 0
+Key: 733904, Value: 0
+Key: 733907, Value: 0
+Key: 733910, Value: 0
+Key: 733913, Value: 0
+Key: 733916, Value: 0
+Key: 733919, Value: 0
+Key: 733921, Value: 0
+Key: 733924, Value: 0
+Key: 733927, Value: 0
+Key: 733930, Value: 0
+Key: 733933, Value: 0
+Key: 733936, Value: 0
+Key: 733939, Value: 0
+Key: 733942, Value: 0
+Key: 733945, Value: 0
+Key: 733948, Value: 0
+Key: 733951, Value: 0
+Key: 733954, Value: 0
+Key: 733957, Value: 0
+Key: 733960, Value: 0
+Key: 733963, Value: 0
+Key: 733966, Value: 0
+Key: 733969, Value: 0
+Key: 733972, Value: 0
+Key: 733975, Value: 0
+Key: 733978, Value: 0
+Key: 733981, Value: 0
+Key: 733982, Value: 0
+Key: 733985, Value: 0
+Key: 733988, Value: 0
+Key: 733991, Value: 0
+Key: 733994, Value: 0
+Key: 733997, Value: 0
+Key: 734000, Value: 0
+Key: 734003, Value: 0
+Key: 734006, Value: 0
+Key: 734009, Value: 0
+Key: 734012, Value: 0
+Key: 734015, Value: 0
+Key: 734018, Value: 0
+Key: 734021, Value: 0
+Key: 734024, Value: 0
+Key: 734027, Value: 0
+Key: 734030, Value: 0
+Key: 734033, Value: 0
+Key: 734036, Value: 0
+Key: 734039, Value: 0
+Key: 734046, Value: 0
+Key: 734049, Value: 0
+Key: 734052, Value: 0
+Key: 734055, Value: 0
+Key: 734058, Value: 0
+Key: 734061, Value: 0
+Key: 734064, Value: 0
+Key: 734067, Value: 0
+Key: 734070, Value: 0
+Key: 734073, Value: 0
+Key: 734076, Value: 0
+Key: 734078, Value: 0
+Key: 734081, Value: 0
+Key: 734084, Value: 0
+Key: 734087, Value: 0
+Key: 734090, Value: 0
+Key: 734093, Value: 0
+Key: 734096, Value: 0
+Key: 734099, Value: 0
+Key: 734102, Value: 0
+Key: 734107, Value: 0
+Key: 734110, Value: 0
+Key: 734113, Value: 0
+Key: 734116, Value: 0
+Key: 734119, Value: 0
+Key: 734122, Value: 0
+Key: 734125, Value: 0
+Key: 734128, Value: 0
+Key: 734131, Value: 0
+Key: 734135, Value: 0
+Key: 734137, Value: 0
+Key: 734140, Value: 0
+Key: 734143, Value: 0
+Key: 734146, Value: 0
+Key: 734149, Value: 0
+Key: 734152, Value: 0
+Key: 734155, Value: 0
+Key: 734158, Value: 0
+Key: 734161, Value: 0
+Key: 734164, Value: 0
+Key: 734167, Value: 0
+Key: 734170, Value: 0
+Key: 734173, Value: 0
+Key: 734176, Value: 0
+Key: 734179, Value: 0
+Key: 734182, Value: 0
+Key: 734185, Value: 0
+Key: 734188, Value: 0
+Key: 734191, Value: 0
+Key: 734194, Value: 0
+Key: 734196, Value: 0
+Key: 734199, Value: 0
+Key: 734202, Value: 0
+Key: 734205, Value: 0
+Key: 734208, Value: 0
+Key: 734211, Value: 0
+Key: 734214, Value: 0
+Key: 734217, Value: 0
+Key: 734220, Value: 0
+Key: 734223, Value: 0
+Key: 734226, Value: 0
+Key: 734229, Value: 0
+Key: 734232, Value: 0
+Key: 734235, Value: 0
+Key: 734238, Value: 0
+Key: 734241, Value: 0
+Key: 734244, Value: 0
+Key: 734247, Value: 0
+Key: 734250, Value: 0
+Key: 734253, Value: 0
+Key: 734256, Value: 0
+Key: 734258, Value: 0
+Key: 734261, Value: 0
+Key: 734264, Value: 0
+Key: 734267, Value: 0
+Key: 734270, Value: 0
+Key: 734273, Value: 0
+Key: 734276, Value: 0
+Key: 734279, Value: 0
+Key: 734282, Value: 0
+Key: 734285, Value: 0
+Key: 734287, Value: 0
+Key: 734290, Value: 0
+Key: 734293, Value: 0
+Key: 734296, Value: 0
+Key: 734299, Value: 0
+Key: 734302, Value: 0
+Key: 734305, Value: 0
+Key: 734308, Value: 0
+Key: 734311, Value: 0
+Key: 734314, Value: 0
+Key: 734317, Value: 0
+Key: 734320, Value: 0
+Key: 734323, Value: 0
+Key: 734326, Value: 0
+Key: 734329, Value: 0
+Key: 734332, Value: 0
+Key: 734335, Value: 0
+Key: 734338, Value: 0
+Key: 734341, Value: 0
+Key: 734344, Value: 0
+Key: 734346, Value: 0
+Key: 734348, Value: 0
+Key: 734351, Value: 0
+Key: 734354, Value: 0
+Key: 734357, Value: 0
+Key: 734360, Value: 0
+Key: 734363, Value: 0
+Key: 734366, Value: 0
+Key: 734369, Value: 0
+Key: 734372, Value: 0
+Key: 734375, Value: 0
+Key: 734378, Value: 0
+Key: 734381, Value: 0
+Key: 734384, Value: 0
+Key: 734387, Value: 0
+Key: 734390, Value: 0
+Key: 734393, Value: 0
+Key: 734396, Value: 0
+Key: 734399, Value: 0
+Key: 734402, Value: 0
+Key: 734405, Value: 0
+Key: 734412, Value: 0
+Key: 734415, Value: 0
+Key: 734418, Value: 0
+Key: 734421, Value: 0
+Key: 734424, Value: 0
+Key: 734427, Value: 0
+Key: 734430, Value: 0
+Key: 734433, Value: 0
+Key: 734436, Value: 0
+Key: 734439, Value: 0
+Key: 734441, Value: 0
+Key: 734444, Value: 0
+Key: 734447, Value: 0
+Key: 734450, Value: 0
+Key: 734453, Value: 0
+Key: 734456, Value: 0
+Key: 734459, Value: 0
+Key: 734462, Value: 0
+Key: 734465, Value: 0
+Key: 734468, Value: 0
+Key: 734472, Value: 0
+Key: 734475, Value: 0
+Key: 734478, Value: 0
+Key: 734481, Value: 0
+Key: 734484, Value: 0
+Key: 734487, Value: 0
+Key: 734490, Value: 0
+Key: 734493, Value: 0
+Key: 734497, Value: 0
+Key: 734500, Value: 0
+Key: 734502, Value: 0
+Key: 734505, Value: 0
+Key: 734508, Value: 0
+Key: 734511, Value: 0
+Key: 734514, Value: 0
+Key: 734517, Value: 0
+Key: 734520, Value: 0
+Key: 734523, Value: 0
+Key: 734526, Value: 0
+Key: 734529, Value: 0
+Key: 734532, Value: 0
+Key: 734535, Value: 0
+Key: 734538, Value: 0
+Key: 734541, Value: 0
+Key: 734544, Value: 0
+Key: 734547, Value: 0
+Key: 734550, Value: 0
+Key: 734553, Value: 0
+Key: 734556, Value: 0
+Key: 734559, Value: 0
+Key: 734561, Value: 0
+Key: 734564, Value: 0
+Key: 734567, Value: 0
+Key: 734570, Value: 0
+Key: 734573, Value: 0
+Key: 734576, Value: 0
+Key: 734579, Value: 0
+Key: 734582, Value: 0
+Key: 734585, Value: 0
+Key: 734588, Value: 0
+Key: 734591, Value: 0
+Key: 734594, Value: 0
+Key: 734597, Value: 0
+Key: 734600, Value: 0
+Key: 734603, Value: 0
+Key: 734606, Value: 0
+Key: 734609, Value: 0
+Key: 734612, Value: 0
+Key: 734615, Value: 0
+Key: 734618, Value: 0
+Key: 734621, Value: 0
+Key: 734623, Value: 0
+Key: 734626, Value: 0
+Key: 734629, Value: 0
+Key: 734632, Value: 0
+Key: 734635, Value: 0
+Key: 734638, Value: 0
+Key: 734641, Value: 0
+Key: 734644, Value: 0
+Key: 734647, Value: 0
+Key: 734650, Value: 0
+Key: 734652, Value: 0
+Key: 734655, Value: 0
+Key: 734658, Value: 0
+Key: 734661, Value: 0
+Key: 734664, Value: 0
+Key: 734667, Value: 0
+Key: 734670, Value: 0
+Key: 734673, Value: 0
+Key: 734676, Value: 0
+Key: 734679, Value: 0
+Key: 734682, Value: 0
+Key: 734685, Value: 0
+Key: 734688, Value: 0
+Key: 734691, Value: 0
+Key: 734694, Value: 0
+Key: 734697, Value: 0
+Key: 734700, Value: 0
+Key: 734703, Value: 0
+Key: 734706, Value: 0
+Key: 734708, Value: 0
+Key: 734711, Value: 0
+Key: 734713, Value: 0
+Key: 734716, Value: 0
+Key: 734719, Value: 0
+Key: 734722, Value: 0
+Key: 734725, Value: 0
+Key: 734728, Value: 0
+Key: 734731, Value: 0
+Key: 734734, Value: 0
+Key: 734737, Value: 0
+Key: 734740, Value: 0
+Key: 734743, Value: 0
+Key: 734746, Value: 0
+Key: 734749, Value: 0
+Key: 734752, Value: 0
+Key: 734755, Value: 0
+Key: 734758, Value: 0
+Key: 734761, Value: 0
+Key: 734764, Value: 0
+Key: 734767, Value: 0
+Key: 734770, Value: 0
+Key: 734777, Value: 0
+Key: 734780, Value: 0
+Key: 734783, Value: 0
+Key: 734786, Value: 0
+Key: 734789, Value: 0
+Key: 734792, Value: 0
+Key: 734795, Value: 0
+Key: 734798, Value: 0
+Key: 734801, Value: 0
+Key: 734804, Value: 0
+Key: 734806, Value: 0
+Key: 734809, Value: 0
+Key: 734812, Value: 0
+Key: 734815, Value: 0
+Key: 734818, Value: 0
+Key: 734821, Value: 0
+Key: 734824, Value: 0
+Key: 734827, Value: 0
+Key: 734830, Value: 0
+Key: 734833, Value: 0
+Key: 734838, Value: 0
+Key: 734841, Value: 0
+Key: 734844, Value: 0
+Key: 734847, Value: 0
+Key: 734850, Value: 0
+Key: 734853, Value: 0
+Key: 734856, Value: 0
+Key: 734859, Value: 0
+Key: 734862, Value: 0
+Key: 734865, Value: 0
+Key: 734868, Value: 0
+Key: 734871, Value: 0
+Key: 734874, Value: 0
+Key: 734877, Value: 0
+Key: 734880, Value: 0
+Key: 734883, Value: 0
+Key: 734886, Value: 0
+Key: 734889, Value: 0
+Key: 734892, Value: 0
+Key: 734895, Value: 0
+Key: 734898, Value: 0
+Key: 734901, Value: 0
+Key: 734904, Value: 0
+Key: 734907, Value: 0
+Key: 734910, Value: 0
+Key: 734913, Value: 0
+Key: 734916, Value: 0
+Key: 734919, Value: 0
+Key: 734922, Value: 0
+Key: 734925, Value: 0
+Key: 734927, Value: 0
+Key: 734930, Value: 0
+Key: 734933, Value: 0
+Key: 734936, Value: 0
+Key: 734939, Value: 0
+Key: 734942, Value: 0
+Key: 734945, Value: 0
+Key: 734948, Value: 0
+Key: 734951, Value: 0
+Key: 734954, Value: 0
+Key: 734957, Value: 0
+Key: 734960, Value: 0
+Key: 734963, Value: 0
+Key: 734966, Value: 0
+Key: 734969, Value: 0
+Key: 734972, Value: 0
+Key: 734975, Value: 0
+Key: 734978, Value: 0
+Key: 734981, Value: 0
+Key: 734984, Value: 0
+Key: 734986, Value: 0
+Key: 734989, Value: 0
+Key: 734992, Value: 0
+Key: 734995, Value: 0
+Key: 734998, Value: 0
+Key: 735001, Value: 0
+Key: 735004, Value: 0
+Key: 735007, Value: 0
+Key: 735010, Value: 0
+Key: 735013, Value: 0
+Key: 735016, Value: 0
+Key: 735018, Value: 0
+Key: 735021, Value: 0
+Key: 735024, Value: 0
+Key: 735027, Value: 0
+Key: 735030, Value: 0
+Key: 735033, Value: 0
+Key: 735036, Value: 0
+Key: 735039, Value: 0
+Key: 735042, Value: 0
+Key: 735045, Value: 0
+Key: 735048, Value: 0
+Key: 735051, Value: 0
+Key: 735054, Value: 0
+Key: 735057, Value: 0
+Key: 735060, Value: 0
+Key: 735063, Value: 0
+Key: 735066, Value: 0
+Key: 735069, Value: 0
+Key: 735072, Value: 0
+Key: 735074, Value: 0
+Key: 735076, Value: 0
+Key: 735079, Value: 0
+Key: 735082, Value: 0
+Key: 735085, Value: 0
+Key: 735088, Value: 0
+Key: 735091, Value: 0
+Key: 735094, Value: 0
+Key: 735097, Value: 0
+Key: 735100, Value: 0
+Key: 735103, Value: 0
+Key: 735106, Value: 0
+Key: 735109, Value: 0
+Key: 735112, Value: 0
+Key: 735115, Value: 0
+Key: 735118, Value: 0
+Key: 735121, Value: 0
+Key: 735124, Value: 0
+Key: 735127, Value: 0
+Key: 735130, Value: 0
+Key: 735133, Value: 0
+Key: 735136, Value: 0
+Key: 735143, Value: 0
+Key: 735146, Value: 0
+Key: 735149, Value: 0
+Key: 735152, Value: 0
+Key: 735155, Value: 0
+Key: 735158, Value: 0
+Key: 735161, Value: 0
+Key: 735164, Value: 0
+Key: 735167, Value: 0
+Key: 735170, Value: 0
+Key: 735172, Value: 0
+Key: 735175, Value: 0
+Key: 735178, Value: 0
+Key: 735181, Value: 0
+Key: 735184, Value: 0
+Key: 735187, Value: 0
+Key: 735190, Value: 0
+Key: 735193, Value: 0
+Key: 735196, Value: 0
+Key: 735201, Value: 0
+Key: 735204, Value: 0
+Key: 735207, Value: 0
+Key: 735210, Value: 0
+Key: 735213, Value: 0
+Key: 735216, Value: 0
+Key: 735219, Value: 0
+Key: 735222, Value: 0
+Key: 735225, Value: 0
+Key: 735228, Value: 0
+Key: 735231, Value: 0
+Key: 735234, Value: 0
+Key: 735237, Value: 0
+Key: 735240, Value: 0
+Key: 735243, Value: 0
+Key: 735246, Value: 0
+Key: 735249, Value: 0
+Key: 735252, Value: 0
+Key: 735255, Value: 0
+Key: 735258, Value: 0
+Key: 735261, Value: 0
+Key: 735264, Value: 0
+Key: 735267, Value: 0
+Key: 735270, Value: 0
+Key: 735273, Value: 0
+Key: 735276, Value: 0
+Key: 735279, Value: 0
+Key: 735282, Value: 0
+Key: 735285, Value: 0
+Key: 735288, Value: 0
+Key: 735291, Value: 0
+Key: 735293, Value: 0
+Key: 735296, Value: 0
+Key: 735299, Value: 0
+Key: 735302, Value: 0
+Key: 735305, Value: 0
+Key: 735308, Value: 0
+Key: 735311, Value: 0
+Key: 735314, Value: 0
+Key: 735317, Value: 0
+Key: 735320, Value: 0
+Key: 735323, Value: 0
+Key: 735326, Value: 0
+Key: 735329, Value: 0
+Key: 735332, Value: 0
+Key: 735335, Value: 0
+Key: 735338, Value: 0
+Key: 735341, Value: 0
+Key: 735344, Value: 0
+Key: 735347, Value: 0
+Key: 735350, Value: 0
+Key: 735352, Value: 0
+Key: 735355, Value: 0
+Key: 735358, Value: 0
+Key: 735361, Value: 0
+Key: 735364, Value: 0
+Key: 735367, Value: 0
+Key: 735370, Value: 0
+Key: 735373, Value: 0
+Key: 735376, Value: 0
+Key: 735379, Value: 0
+Key: 735381, Value: 0
+Key: 735384, Value: 0
+Key: 735387, Value: 0
+Key: 735390, Value: 0
+Key: 735393, Value: 0
+Key: 735396, Value: 0
+Key: 735399, Value: 0
+Key: 735402, Value: 0
+Key: 735405, Value: 0
+Key: 735408, Value: 0
+Key: 735411, Value: 0
+Key: 735414, Value: 0
+Key: 735417, Value: 0
+Key: 735420, Value: 0
+Key: 735423, Value: 0
+Key: 735426, Value: 0
+Key: 735429, Value: 0
+Key: 735432, Value: 0
+Key: 735435, Value: 0
+Key: 735437, Value: 0
+Key: 735440, Value: 0
+Key: 735442, Value: 0
+Key: 735445, Value: 0
+Key: 735448, Value: 0
+Key: 735451, Value: 0
+Key: 735454, Value: 0
+Key: 735457, Value: 0
+Key: 735460, Value: 0
+Key: 735463, Value: 0
+Key: 735466, Value: 0
+Key: 735469, Value: 0
+Key: 735472, Value: 0
+Key: 735475, Value: 0
+Key: 735478, Value: 0
+Key: 735481, Value: 0
+Key: 735484, Value: 0
+Key: 735487, Value: 0
+Key: 735490, Value: 0
+Key: 735493, Value: 0
+Key: 735496, Value: 0
+Key: 735499, Value: 0
+Key: 735506, Value: 0
+Key: 735509, Value: 0
+Key: 735512, Value: 0
+Key: 735515, Value: 0
+Key: 735518, Value: 0
+Key: 735521, Value: 0
+Key: 735524, Value: 0
+Key: 735527, Value: 0
+Key: 735530, Value: 0
+Key: 735533, Value: 0
+Key: 735536, Value: 0
+Key: 735538, Value: 0
+Key: 735541, Value: 0
+Key: 735544, Value: 0
+Key: 735547, Value: 0
+Key: 735550, Value: 0
+Key: 735553, Value: 0
+Key: 735556, Value: 0
+Key: 735559, Value: 0
+Key: 735562, Value: 0
+Key: 735567, Value: 0
+Key: 735570, Value: 0
+Key: 735573, Value: 0
+Key: 735576, Value: 0
+Key: 735579, Value: 0
+Key: 735582, Value: 0
+Key: 735585, Value: 0
+Key: 735588, Value: 0
+Key: 735591, Value: 0
+Key: 735595, Value: 0
+Key: 735597, Value: 0
+Key: 735600, Value: 0
+Key: 735603, Value: 0
+Key: 735606, Value: 0
+Key: 735609, Value: 0
+Key: 735612, Value: 0
+Key: 735615, Value: 0
+Key: 735618, Value: 0
+Key: 735621, Value: 0
+Key: 735624, Value: 0
+Key: 735627, Value: 0
+Key: 735630, Value: 0
+Key: 735633, Value: 0
+Key: 735636, Value: 0
+Key: 735639, Value: 0
+Key: 735642, Value: 0
+Key: 735645, Value: 0
+Key: 735648, Value: 0
+Key: 735651, Value: 0
+Key: 735654, Value: 0
+Key: 735656, Value: 0
+Key: 735659, Value: 0
+Key: 735662, Value: 0
+Key: 735665, Value: 0
+Key: 735668, Value: 0
+Key: 735671, Value: 0
+Key: 735674, Value: 0
+Key: 735677, Value: 0
+Key: 735680, Value: 0
+Key: 735683, Value: 0
+Key: 735686, Value: 0
+Key: 735689, Value: 0
+Key: 735692, Value: 0
+Key: 735695, Value: 0
+Key: 735698, Value: 0
+Key: 735701, Value: 0
+Key: 735704, Value: 0
+Key: 735707, Value: 0
+Key: 735710, Value: 0
+Key: 735713, Value: 0
+Key: 735716, Value: 0
+Key: 735718, Value: 0
+Key: 735721, Value: 0
+Key: 735724, Value: 0
+Key: 735727, Value: 0
+Key: 735730, Value: 0
+Key: 735733, Value: 0
+Key: 735736, Value: 0
+Key: 735739, Value: 0
+Key: 735742, Value: 0
+Key: 735745, Value: 0
+Key: 735747, Value: 0
+Key: 735750, Value: 0
+Key: 735753, Value: 0
+Key: 735756, Value: 0
+Key: 735759, Value: 0
+Key: 735762, Value: 0
+Key: 735765, Value: 0
+Key: 735768, Value: 0
+Key: 735771, Value: 0
+Key: 735774, Value: 0
+Key: 735777, Value: 0
+Key: 735780, Value: 0
+Key: 735783, Value: 0
+Key: 735786, Value: 0
+Key: 735789, Value: 0
+Key: 735792, Value: 0
+Key: 735795, Value: 0
+Key: 735798, Value: 0
+Key: 735800, Value: 0
+Key: 735803, Value: 0
+Key: 735806, Value: 0
+Key: 735808, Value: 0
+Key: 735811, Value: 0
+Key: 735814, Value: 0
+Key: 735817, Value: 0
+Key: 735820, Value: 0
+Key: 735823, Value: 0
+Key: 735826, Value: 0
+Key: 735829, Value: 0
+Key: 735832, Value: 0
+Key: 735835, Value: 0
+Key: 735838, Value: 0
+Key: 735841, Value: 0
+Key: 735844, Value: 0
+Key: 735847, Value: 0
+Key: 735850, Value: 0
+Key: 735853, Value: 0
+Key: 735856, Value: 0
+Key: 735859, Value: 0
+Key: 735862, Value: 0
+Key: 735865, Value: 0
+Key: 735872, Value: 0
+Key: 735875, Value: 0
+Key: 735878, Value: 0
+Key: 735881, Value: 0
+Key: 735884, Value: 0
+Key: 735887, Value: 0
+Key: 735890, Value: 0
+Key: 735893, Value: 0
+Key: 735896, Value: 0
+Key: 735899, Value: 0
+Key: 735901, Value: 0
+Key: 735904, Value: 0
+Key: 735907, Value: 0
+Key: 735910, Value: 0
+Key: 735913, Value: 0
+Key: 735916, Value: 0
+Key: 735919, Value: 0
+Key: 735922, Value: 0
+Key: 735925, Value: 0
+Key: 735928, Value: 0
+Key: 735932, Value: 0
+Key: 735935, Value: 0
+Key: 735938, Value: 0
+Key: 735941, Value: 0
+Key: 735944, Value: 0
+Key: 735947, Value: 0
+Key: 735950, Value: 0
+Key: 735953, Value: 0
+Key: 735956, Value: 0
+Key: 735960, Value: 0
+Key: 735962, Value: 0
+Key: 735965, Value: 0
+Key: 735968, Value: 0
+Key: 735971, Value: 0
+Key: 735974, Value: 0
+Key: 735977, Value: 0
+Key: 735980, Value: 0
+Key: 735983, Value: 0
+Key: 735986, Value: 0
+Key: 735989, Value: 0
+Key: 735992, Value: 0
+Key: 735995, Value: 0
+Key: 735998, Value: 0
+Key: 736001, Value: 0
+Key: 736004, Value: 0
+Key: 736007, Value: 0
+Key: 736010, Value: 0
+Key: 736013, Value: 0
+Key: 736016, Value: 0
+Key: 736019, Value: 0
+Key: 736021, Value: 0
+Key: 736024, Value: 0
+Key: 736027, Value: 0
+Key: 736030, Value: 0
+Key: 736033, Value: 0
+Key: 736036, Value: 0
+Key: 736039, Value: 0
+Key: 736042, Value: 0
+Key: 736045, Value: 0
+Key: 736048, Value: 0
+Key: 736051, Value: 0
+Key: 736054, Value: 0
+Key: 736057, Value: 0
+Key: 736060, Value: 0
+Key: 736063, Value: 0
+Key: 736066, Value: 0
+Key: 736069, Value: 0
+Key: 736072, Value: 0
+Key: 736075, Value: 0
+Key: 736078, Value: 0
+Key: 736081, Value: 0
+Key: 736083, Value: 0
+Key: 736086, Value: 0
+Key: 736089, Value: 0
+Key: 736092, Value: 0
+Key: 736095, Value: 0
+Key: 736098, Value: 0
+Key: 736101, Value: 0
+Key: 736104, Value: 0
+Key: 736107, Value: 0
+Key: 736110, Value: 0
+Key: 736112, Value: 0
+Key: 736115, Value: 0
+Key: 736118, Value: 0
+Key: 736121, Value: 0
+Key: 736124, Value: 0
+Key: 736127, Value: 0
+Key: 736130, Value: 0
+Key: 736133, Value: 0
+Key: 736136, Value: 0
+Key: 736139, Value: 0
+Key: 736142, Value: 0
+Key: 736145, Value: 0
+Key: 736148, Value: 0
+Key: 736151, Value: 0
+Key: 736154, Value: 0
+Key: 736157, Value: 0
+Key: 736160, Value: 0
+Key: 736163, Value: 0
+Key: 736166, Value: 0
+Key: 736169, Value: 0
+Key: 736171, Value: 0
+Key: 736173, Value: 0
+Key: 736176, Value: 0
+Key: 736179, Value: 0
+Key: 736182, Value: 0
+Key: 736185, Value: 0
+Key: 736188, Value: 0
+Key: 736191, Value: 0
+Key: 736194, Value: 0
+Key: 736197, Value: 0
+Key: 736200, Value: 0
+Key: 736203, Value: 0
+Key: 736206, Value: 0
+Key: 736209, Value: 0
+Key: 736212, Value: 0
+Key: 736215, Value: 0
+Key: 736218, Value: 0
+Key: 736221, Value: 0
+Key: 736224, Value: 0
+Key: 736227, Value: 0
+Key: 736230, Value: 0
+Key: 736237, Value: 0
+Key: 736240, Value: 0
+Key: 736243, Value: 0
+Key: 736246, Value: 0
+Key: 736249, Value: 0
+Key: 736252, Value: 0
+Key: 736255, Value: 0
+Key: 736258, Value: 0
+Key: 736261, Value: 0
+Key: 736264, Value: 0
+Key: 736266, Value: 0
+Key: 736269, Value: 0
+Key: 736272, Value: 0
+Key: 736275, Value: 0
+Key: 736278, Value: 0
+Key: 736281, Value: 0
+Key: 736284, Value: 0
+Key: 736287, Value: 0
+Key: 736290, Value: 0
+Key: 736293, Value: 0
+Key: 736298, Value: 0
+Key: 736301, Value: 0
+Key: 736304, Value: 0
+Key: 736307, Value: 0
+Key: 736310, Value: 0
+Key: 736313, Value: 0
+Key: 736316, Value: 0
+Key: 736319, Value: 0
+Key: 736323, Value: 0
+Key: 736326, Value: 0
+Key: 736328, Value: 0
+Key: 736331, Value: 0
+Key: 736334, Value: 0
+Key: 736337, Value: 0
+Key: 736340, Value: 0
+Key: 736343, Value: 0
+Key: 736346, Value: 0
+Key: 736349, Value: 0
+Key: 736352, Value: 0
+Key: 736355, Value: 0
+Key: 736358, Value: 0
+Key: 736361, Value: 0
+Key: 736364, Value: 0
+Key: 736367, Value: 0
+Key: 736370, Value: 0
+Key: 736373, Value: 0
+Key: 736376, Value: 0
+Key: 736379, Value: 0
+Key: 736382, Value: 0
+Key: 736385, Value: 0
+Key: 736387, Value: 0
+Key: 736390, Value: 0
+Key: 736393, Value: 0
+Key: 736396, Value: 0
+Key: 736399, Value: 0
+Key: 736402, Value: 0
+Key: 736405, Value: 0
+Key: 736408, Value: 0
+Key: 736411, Value: 0
+Key: 736414, Value: 0
+Key: 736417, Value: 0
+Key: 736420, Value: 0
+Key: 736423, Value: 0
+Key: 736426, Value: 0
+Key: 736429, Value: 0
+Key: 736432, Value: 0
+Key: 736435, Value: 0
+Key: 736438, Value: 0
+Key: 736441, Value: 0
+Key: 736444, Value: 0
+Key: 736446, Value: 0
+Key: 736449, Value: 0
+Key: 736452, Value: 0
+Key: 736455, Value: 0
+Key: 736458, Value: 0
+Key: 736461, Value: 0
+Key: 736464, Value: 0
+Key: 736467, Value: 0
+Key: 736470, Value: 0
+Key: 736473, Value: 0
+Key: 736476, Value: 0
+Key: 736478, Value: 0
+Key: 736481, Value: 0
+Key: 736484, Value: 0
+Key: 736487, Value: 0
+Key: 736490, Value: 0
+Key: 736493, Value: 0
+Key: 736496, Value: 0
+Key: 736499, Value: 0
+Key: 736502, Value: 0
+Key: 736505, Value: 0
+Key: 736508, Value: 0
+Key: 736511, Value: 0
+Key: 736514, Value: 0
+Key: 736517, Value: 0
+Key: 736520, Value: 0
+Key: 736523, Value: 0
+Key: 736526, Value: 0
+Key: 736529, Value: 0
+Key: 736532, Value: 0
+Key: 736534, Value: 0
+Key: 736536, Value: 0
+Key: 736539, Value: 0
+Key: 736542, Value: 0
+Key: 736545, Value: 0
+Key: 736548, Value: 0
+Key: 736551, Value: 0
+Key: 736554, Value: 0
+Key: 736557, Value: 0
+Key: 736560, Value: 0
+Key: 736563, Value: 0
+Key: 736566, Value: 0
+Key: 736569, Value: 0
+Key: 736572, Value: 0
+Key: 736575, Value: 0
+Key: 736578, Value: 0
+Key: 736581, Value: 0
+Key: 736584, Value: 0
+Key: 736587, Value: 0
+Key: 736590, Value: 0
+Key: 736593, Value: 0
+Key: 736596, Value: 0
+Key: 736603, Value: 0
+Key: 736606, Value: 0
+Key: 736609, Value: 0
+Key: 736612, Value: 0
+Key: 736615, Value: 0
+Key: 736618, Value: 0
+Key: 736621, Value: 0
+Key: 736624, Value: 0
+Key: 736627, Value: 0
+Key: 736630, Value: 0
+Key: 736632, Value: 0
+Key: 736635, Value: 0
+Key: 736638, Value: 0
+Key: 736641, Value: 0
+Key: 736644, Value: 0
+Key: 736647, Value: 0
+Key: 736650, Value: 0
+Key: 736653, Value: 0
+Key: 736656, Value: 0
+Key: 736661, Value: 0
+Key: 736664, Value: 0
+Key: 736667, Value: 0
+Key: 736670, Value: 0
+Key: 736673, Value: 0
+Key: 736676, Value: 0
+Key: 736679, Value: 0
+Key: 736682, Value: 0
+Key: 736686, Value: 0
+Key: 736689, Value: 0
+Key: 736691, Value: 0
+Key: 736694, Value: 0
+Key: 736697, Value: 0
+Key: 736700, Value: 0
+Key: 736703, Value: 0
+Key: 736706, Value: 0
+Key: 736709, Value: 0
+Key: 736712, Value: 0
+Key: 736715, Value: 0
+Key: 736718, Value: 0
+Key: 736721, Value: 0
+Key: 736724, Value: 0
+Key: 736727, Value: 0
+Key: 736730, Value: 0
+Key: 736733, Value: 0
+Key: 736736, Value: 0
+Key: 736739, Value: 0
+Key: 736742, Value: 0
+Key: 736745, Value: 0
+Key: 736748, Value: 0
+Key: 736751, Value: 0
+Key: 736753, Value: 0
+Key: 736756, Value: 0
+Key: 736759, Value: 0
+Key: 736762, Value: 0
+Key: 736765, Value: 0
+Key: 736768, Value: 0
+Key: 736771, Value: 0
+Key: 736774, Value: 0
+Key: 736777, Value: 0
+Key: 736780, Value: 0
+Key: 736783, Value: 0
+Key: 736786, Value: 0
+Key: 736789, Value: 0
+Key: 736792, Value: 0
+Key: 736795, Value: 0
+Key: 736798, Value: 0
+Key: 736801, Value: 0
+Key: 736804, Value: 0
+Key: 736807, Value: 0
+Key: 736810, Value: 0
+Key: 736812, Value: 0
+Key: 736815, Value: 0
+Key: 736818, Value: 0
+Key: 736821, Value: 0
+Key: 736824, Value: 0
+Key: 736827, Value: 0
+Key: 736830, Value: 0
+Key: 736833, Value: 0
+Key: 736836, Value: 0
+Key: 736839, Value: 0
+Key: 736841, Value: 0
+Key: 736844, Value: 0
+Key: 736847, Value: 0
+Key: 736850, Value: 0
+Key: 736853, Value: 0
+Key: 736856, Value: 0
+Key: 736859, Value: 0
+Key: 736862, Value: 0
+Key: 736865, Value: 0
+Key: 736868, Value: 0
+Key: 736871, Value: 0
+Key: 736874, Value: 0
+Key: 736877, Value: 0
+Key: 736880, Value: 0
+Key: 736883, Value: 0
+Key: 736886, Value: 0
+Key: 736889, Value: 0
+Key: 736892, Value: 0
+Key: 736895, Value: 0
+Key: 736898, Value: 0
+Key: 736900, Value: 0
+Key: 736902, Value: 0
+Key: 736905, Value: 0
+Key: 736908, Value: 0
+Key: 736911, Value: 0
+Key: 736914, Value: 0
+Key: 736917, Value: 0
+Key: 736920, Value: 0
+Key: 736923, Value: 0
+Key: 736926, Value: 0
+Key: 736929, Value: 0
+Key: 736932, Value: 0
+Key: 736935, Value: 0
+Key: 736938, Value: 0
+Key: 736941, Value: 0
+Key: 736944, Value: 0
+Key: 736947, Value: 0
+Key: 736950, Value: 0
+Key: 736953, Value: 0
+Key: 736956, Value: 0
+Key: 736959, Value: 0
+Key: 736966, Value: 0
+Key: 736969, Value: 0
+Key: 736972, Value: 0
+Key: 736975, Value: 0
+Key: 736978, Value: 0
+Key: 736981, Value: 0
+Key: 736984, Value: 0
+Key: 736987, Value: 0
+Key: 736990, Value: 0
+Key: 736993, Value: 0
+Key: 736996, Value: 0
+Key: 736998, Value: 0
+Key: 737001, Value: 0
+Key: 737004, Value: 0
+Key: 737007, Value: 0
+Key: 737010, Value: 0
+Key: 737013, Value: 0
+Key: 737016, Value: 0
+Key: 737019, Value: 0
+Key: 737022, Value: 0
+Key: 737027, Value: 0
+Key: 737030, Value: 0
+Key: 737033, Value: 0
+Key: 737036, Value: 0
+Key: 737039, Value: 0
+Key: 737042, Value: 0
+Key: 737045, Value: 0
+Key: 737048, Value: 0
+Key: 737051, Value: 0
+Key: 737054, Value: 0
+Key: 737057, Value: 0
+Key: 737060, Value: 0
+Key: 737063, Value: 0
+Key: 737066, Value: 0
+Key: 737069, Value: 0
+Key: 737072, Value: 0
+Key: 737075, Value: 0
+Key: 737078, Value: 0
+Key: 737081, Value: 0
+Key: 737084, Value: 0
+Key: 737087, Value: 0
+Key: 737090, Value: 0
+Key: 737093, Value: 0
+Key: 737096, Value: 0
+Key: 737099, Value: 0
+Key: 737102, Value: 0
+Key: 737105, Value: 0
+Key: 737108, Value: 0
+Key: 737111, Value: 0
+Key: 737114, Value: 0
+Key: 737116, Value: 0
+Key: 737119, Value: 0
+Key: 737122, Value: 0
+Key: 737125, Value: 0
+Key: 737128, Value: 0
+Key: 737131, Value: 0
+Key: 737134, Value: 0
+Key: 737137, Value: 0
+Key: 737140, Value: 0
+Key: 737143, Value: 0
+Key: 737146, Value: 0
+Key: 737149, Value: 0
+Key: 737152, Value: 0
+Key: 737155, Value: 0
+Key: 737158, Value: 0
+Key: 737161, Value: 0
+Key: 737164, Value: 0
+Key: 737167, Value: 0
+Key: 737170, Value: 0
+Key: 737173, Value: 0
+Key: 737176, Value: 0
+Key: 737178, Value: 0
+Key: 737181, Value: 0
+Key: 737184, Value: 0
+Key: 737187, Value: 0
+Key: 737190, Value: 0
+Key: 737193, Value: 0
+Key: 737196, Value: 0
+Key: 737199, Value: 0
+Key: 737202, Value: 0
+Key: 737205, Value: 0
+Key: 737207, Value: 0
+Key: 737210, Value: 0
+Key: 737213, Value: 0
+Key: 737216, Value: 0
+Key: 737219, Value: 0
+Key: 737222, Value: 0
+Key: 737225, Value: 0
+Key: 737228, Value: 0
+Key: 737231, Value: 0
+Key: 737234, Value: 0
+Key: 737237, Value: 0
+Key: 737240, Value: 0
+Key: 737243, Value: 0
+Key: 737246, Value: 0
+Key: 737249, Value: 0
+Key: 737252, Value: 0
+Key: 737255, Value: 0
+Key: 737258, Value: 0
+Key: 737261, Value: 0
+Key: 737263, Value: 0
+Key: 737266, Value: 0
+Key: 737268, Value: 0
+Key: 737271, Value: 0
+Key: 737274, Value: 0
+Key: 737277, Value: 0
+Key: 737280, Value: 0
+Key: 737283, Value: 0
+Key: 737286, Value: 0
+Key: 737289, Value: 0
+Key: 737292, Value: 0
+Key: 737295, Value: 0
+Key: 737298, Value: 0
+Key: 737301, Value: 0
+Key: 737304, Value: 0
+Key: 737307, Value: 0
+Key: 737310, Value: 0
+Key: 737313, Value: 0
+Key: 737316, Value: 0
+Key: 737319, Value: 0
+Key: 737322, Value: 0
+Key: 737325, Value: 0
+Key: 737332, Value: 0
+Key: 737335, Value: 0
+Key: 737338, Value: 0
+Key: 737341, Value: 0
+Key: 737344, Value: 0
+Key: 737347, Value: 0
+Key: 737350, Value: 0
+Key: 737353, Value: 0
+Key: 737356, Value: 0
+Key: 737359, Value: 0
+Key: 737361, Value: 0
+Key: 737364, Value: 0
+Key: 737367, Value: 0
+Key: 737370, Value: 0
+Key: 737373, Value: 0
+Key: 737376, Value: 0
+Key: 737379, Value: 0
+Key: 737382, Value: 0
+Key: 737385, Value: 0
+Key: 737388, Value: 0
+Key: 737392, Value: 0
+Key: 737395, Value: 0
+Key: 737398, Value: 0
+Key: 737401, Value: 0
+Key: 737404, Value: 0
+Key: 737407, Value: 0
+Key: 737410, Value: 0
+Key: 737413, Value: 0
+Key: 737416, Value: 0
+Key: 737420, Value: 0
+Key: 737422, Value: 0
+Key: 737425, Value: 0
+Key: 737428, Value: 0
+Key: 737431, Value: 0
+Key: 737434, Value: 0
+Key: 737437, Value: 0
+Key: 737440, Value: 0
+Key: 737443, Value: 0
+Key: 737446, Value: 0
+Key: 737449, Value: 0
+Key: 737452, Value: 0
+Key: 737455, Value: 0
+Key: 737458, Value: 0
+Key: 737461, Value: 0
+Key: 737464, Value: 0
+Key: 737467, Value: 0
+Key: 737470, Value: 0
+Key: 737473, Value: 0
+Key: 737476, Value: 0
+Key: 737479, Value: 0
+Key: 737481, Value: 0
+Key: 737484, Value: 0
+Key: 737487, Value: 0
+Key: 737490, Value: 0
+Key: 737493, Value: 0
+Key: 737496, Value: 0
+Key: 737499, Value: 0
+Key: 737502, Value: 0
+Key: 737505, Value: 0
+Key: 737508, Value: 0
+Key: 737511, Value: 0
+Key: 737514, Value: 0
+Key: 737517, Value: 0
+Key: 737520, Value: 0
+Key: 737523, Value: 0
+Key: 737526, Value: 0
+Key: 737529, Value: 0
+Key: 737532, Value: 0
+Key: 737535, Value: 0
+Key: 737538, Value: 0
+Key: 737541, Value: 0
+Key: 737543, Value: 0
+Key: 737546, Value: 0
+Key: 737549, Value: 0
+Key: 737552, Value: 0
+Key: 737555, Value: 0
+Key: 737558, Value: 0
+Key: 737561, Value: 0
+Key: 737564, Value: 0
+Key: 737567, Value: 0
+Key: 737570, Value: 0
+Key: 737572, Value: 0
+Key: 737575, Value: 0
+Key: 737578, Value: 0
+Key: 737581, Value: 0
+Key: 737584, Value: 0
+Key: 737587, Value: 0
+Key: 737590, Value: 0
+Key: 737593, Value: 0
+Key: 737596, Value: 0
+Key: 737599, Value: 0
+Key: 737602, Value: 0
+Key: 737605, Value: 0
+Key: 737608, Value: 0
+Key: 737611, Value: 0
+Key: 737614, Value: 0
+Key: 737617, Value: 0
+Key: 737620, Value: 0
+Key: 737623, Value: 0
+Key: 737625, Value: 0
+Key: 737628, Value: 0
+Key: 737631, Value: 0
+Key: 737633, Value: 0
+Key: 737636, Value: 0
+Key: 737639, Value: 0
+Key: 737642, Value: 0
+Key: 737645, Value: 0
+Key: 737648, Value: 0
+Key: 737651, Value: 0
+Key: 737654, Value: 0
+Key: 737657, Value: 0
+Key: 737660, Value: 0
+Key: 737663, Value: 0
+Key: 737666, Value: 0
+Key: 737669, Value: 0
+Key: 737672, Value: 0
+Key: 737675, Value: 0
+Key: 737678, Value: 0
+Key: 737681, Value: 0
+Key: 737684, Value: 0
+Key: 737687, Value: 0
+Key: 737690, Value: 0
+Key: 737697, Value: 0
+Key: 737700, Value: 0
+Key: 737703, Value: 0
+Key: 737706, Value: 0
+Key: 737709, Value: 0
+Key: 737712, Value: 0
+Key: 737715, Value: 0
+Key: 737718, Value: 0
+Key: 737721, Value: 0
+Key: 737724, Value: 0
+Key: 737726, Value: 0
+Key: 737729, Value: 0
+Key: 737732, Value: 0
+Key: 737735, Value: 0
+Key: 737738, Value: 0
+Key: 737741, Value: 0
+Key: 737744, Value: 0
+Key: 737747, Value: 0
+Key: 737750, Value: 0
+Key: 737753, Value: 0
+Key: 737758, Value: 0
+Key: 737761, Value: 0
+Key: 737764, Value: 0
+Key: 737767, Value: 0
+Key: 737770, Value: 0
+Key: 737773, Value: 0
+Key: 737776, Value: 0
+Key: 737779, Value: 0
+Key: 737782, Value: 0
+Key: 737786, Value: 0
+Key: 737788, Value: 0
+Key: 737791, Value: 0
+Key: 737794, Value: 0
+Key: 737797, Value: 0
+Key: 737800, Value: 0
+Key: 737803, Value: 0
+Key: 737806, Value: 0
+Key: 737809, Value: 0
+Key: 737812, Value: 0
+Key: 737815, Value: 0
+Key: 737818, Value: 0
+Key: 737821, Value: 0
+Key: 737824, Value: 0
+Key: 737827, Value: 0
+Key: 737830, Value: 0
+Key: 737833, Value: 0
+Key: 737836, Value: 0
+Key: 737839, Value: 0
+Key: 737842, Value: 0
+Key: 737845, Value: 0
+Key: 737847, Value: 0
+Key: 737850, Value: 0
+Key: 737853, Value: 0
+Key: 737856, Value: 0
+Key: 737859, Value: 0
+Key: 737862, Value: 0
+Key: 737865, Value: 0
+Key: 737868, Value: 0
+Key: 737871, Value: 0
+Key: 737874, Value: 0
+Key: 737877, Value: 0
+Key: 737880, Value: 0
+Key: 737883, Value: 0
+Key: 737886, Value: 0
+Key: 737889, Value: 0
+Key: 737892, Value: 0
+Key: 737895, Value: 0
+Key: 737898, Value: 0
+Key: 737901, Value: 0
+Key: 737904, Value: 0
+Key: 737906, Value: 0
+Key: 737909, Value: 0
+Key: 737912, Value: 0
+Key: 737915, Value: 0
+Key: 737918, Value: 0
+Key: 737921, Value: 0
+Key: 737924, Value: 0
+Key: 737927, Value: 0
+Key: 737930, Value: 0
+Key: 737933, Value: 0
+Key: 737936, Value: 0
+Key: 737938, Value: 0
+Key: 737941, Value: 0
+Key: 737944, Value: 0
+Key: 737947, Value: 0
+Key: 737950, Value: 0
+Key: 737953, Value: 0
+Key: 737956, Value: 0
+Key: 737959, Value: 0
+Key: 737962, Value: 0
+Key: 737965, Value: 0
+Key: 737968, Value: 0
+Key: 737971, Value: 0
+Key: 737974, Value: 0
+Key: 737977, Value: 0
+Key: 737980, Value: 0
+Key: 737983, Value: 0
+Key: 737986, Value: 0
+Key: 737989, Value: 0
+Key: 737992, Value: 0
+Key: 737995, Value: 0
+Key: 737996, Value: 0
+Key: 737999, Value: 0
+Key: 738002, Value: 0
+Key: 738005, Value: 0
+Key: 738008, Value: 0
+Key: 738011, Value: 0
+Key: 738014, Value: 0
+Key: 738017, Value: 0
+Key: 738020, Value: 0
+Key: 738023, Value: 0
+Key: 738026, Value: 0
+Key: 738029, Value: 0
+Key: 738032, Value: 0
+Key: 738035, Value: 0
+Key: 738038, Value: 0
+Key: 738041, Value: 0
+Key: 738044, Value: 0
+Key: 738047, Value: 0
+Key: 738050, Value: 0
+Key: 738053, Value: 0
+Key: 738056, Value: 0
+Key: 738063, Value: 0
+Key: 738066, Value: 0
+Key: 738069, Value: 0
+Key: 738072, Value: 0
+Key: 738075, Value: 0
+Key: 738078, Value: 0
+Key: 738081, Value: 0
+Key: 738084, Value: 0
+Key: 738087, Value: 0
+Key: 738090, Value: 0
+Key: 738092, Value: 0
+Key: 738095, Value: 0
+Key: 738098, Value: 0
+Key: 738101, Value: 0
+Key: 738104, Value: 0
+Key: 738107, Value: 0
+Key: 738110, Value: 0
+Key: 738113, Value: 0
+Key: 738116, Value: 0
+Key: 738121, Value: 0
+Key: 738124, Value: 0
+Key: 738127, Value: 0
+Key: 738130, Value: 0
+Key: 738133, Value: 0
+Key: 738136, Value: 0
+Key: 738139, Value: 0
+Key: 738142, Value: 0
+Key: 738145, Value: 0
+Key: 738149, Value: 0
