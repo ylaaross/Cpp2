@@ -4,6 +4,18 @@
 #include <string>
 #include <iomanip>
 
+ScalarConverter::ScalarConverter()
+{
+
+}
+
+char sign(double nbr)
+{
+	if(nbr > 0)
+		return '+';
+	return '-';
+}
+
 void ScalarConverter::convert(std::string str)
 {
 	char *strnc = 0;
@@ -21,10 +33,14 @@ void ScalarConverter::convert(std::string str)
 	nbr = static_cast <int> (doublen);
 	ch = static_cast <char> (nbr);
 	floatn = static_cast <float> (doublen);
-	std::cout << "char " << ch << std::endl;
-	std::cout << "int " << nbr << std::endl;
-	std::cout << "float " << std::fixed << std::setprecision(2) << floatn << std::endl;
-	std::cout << "double " << doublen << std::endl;
+	if(std::isprint(ch))
+		std::cout << "char: " << ch << std::endl;
+	else
+		std::cout << "char: " << "Non displayable" << std::endl;
+	if(nbr == doublen)
+		std::cout << "int: " << nbr << std::endl;
+	else
+		std::cout << "int: " << sign(doublen) <<"inf" << std::endl;
+	std::cout << "float: " << std::fixed << std::setprecision(2) << floatn << std::endl;
+	std::cout << "double: " << doublen << std::endl;
 }
-//3adade kbir
-//

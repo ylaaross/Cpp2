@@ -1,6 +1,11 @@
 #include "ScalarConverter.hpp"
-
+#include <cctype>
 int main( int argc, char **argv)
 {
-	ScalarConverter::convert(std::string(argv[1]));
+	if (argc == 2)
+		ScalarConverter::convert(std::string(argv[1]));
+	else
+		std::cout << "Error" << std::endl;
 }
+// .0f
+// .f
