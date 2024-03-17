@@ -1,6 +1,10 @@
 #include <iostream>
 #include <cstdlib>
-
+enum 
+{
+	ECHAR,
+	EFLOAT
+};
 class ScalarConverter
 {
 	private:

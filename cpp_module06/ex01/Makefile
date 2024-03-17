@@ -1,12 +1,12 @@
 cc		= c++
 
-SRC	=  ScalarConverter.cpp main.cpp 
+SRC	=  Serializer.cpp main.cpp 
 
 FLAGS = -Wall -Wextra -Werror -std=c++98
 
 fileo	= $(SRC:.cpp=.o)
 
-Name	= ScalarConverter
+Name	= Serializer
 
 all : $(Name)
 

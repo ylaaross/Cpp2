@@ -44,3 +44,8 @@ void Base::identify(Base& p)
 	else
 		std::cout << "another thing" << std::endl;
 }
+
+Base::~Base()
+{
+
+}

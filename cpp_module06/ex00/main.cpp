@@ -7,5 +7,3 @@ int main( int argc, char **argv)
 	else
 		std::cout << "Error" << std::endl;
 }
-// .0f
-// .f
