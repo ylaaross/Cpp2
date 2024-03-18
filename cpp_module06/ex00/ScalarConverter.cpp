@@ -1,10 +1,7 @@
 #include <iostream>
-#include <cstdlib>
 #include "ScalarConverter.hpp"
-#include <string>
 #include <iomanip>
-#include <cfloat>
-
+#include <limits>
 ScalarConverter::ScalarConverter()
 {
 
@@ -50,13 +47,13 @@ void	print_char(int after_dot, char ch)
 }
 void print_int(int after_dot, int nbr, double doublen)
 {
-
+	std::cout << std::numeric_limits<int>::max() << std::endl;
 	if(after_dot)
 	{
-		if(nbr == doublen)
+		if(doublen <= std::numeric_limits<int>::max() && doublen >= std::numeric_limits<int>::min())
 			std::cout << "int: " << nbr << std::endl;
 		else
-			std::cout << "int: " << sign(doublen) <<"inf" << std::endl;
+			std::cout << "int: " << sign(doublen) << "inf" << std::endl;
 	}
 	else
 		std::cout << "int: " << "impossible" << std::endl;

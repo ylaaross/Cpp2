@@ -7,7 +7,11 @@ struct Data
 class Serializer 
 {
 		private :
-		Serializer();
+			Serializer();
+			~Serializer();
+			Serializer(Serializer const & Serialize);
+			Serializer & operator=(Serializer const & Serialize);
+
 		
 	public:
 		

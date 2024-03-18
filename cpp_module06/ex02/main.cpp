@@ -5,6 +5,5 @@
 int main()
 {
 	C c = C();
-	Base &Bts = c;
-	Base::identify(Bts);
+	Base::identify(c);
 }
