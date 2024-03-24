@@ -6,14 +6,14 @@ FLAGS = -Wall -Wextra -Werror -std=c++98
 
 fileo	= $(SRC:.cpp=.o)
 
-Name	=  Array
+Name	= whatever
 
 all : $(Name)
 
-$(Name) : $(fileo)
+$(Name) : $(fileo) 
 		$(cc) $(FLAGS) $(fileo) -o $@
 
-%.o	:  %.cpp Array.hpp
+%.o	:  %.cpp whatever.hpp
 		$(cc) $(FLAGS) $(file) -c $<
 
 clean :

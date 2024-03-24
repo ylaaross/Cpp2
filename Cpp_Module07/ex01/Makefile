@@ -1,19 +1,19 @@
 cc		= c++
 
-SRC	=  main.cpp 
+SRC	=  main.cpp
 
 FLAGS = -Wall -Wextra -Werror -std=c++98
 
 fileo	= $(SRC:.cpp=.o)
 
-Name	=  Array
+Name	= iter
 
 all : $(Name)
 
 $(Name) : $(fileo)
 		$(cc) $(FLAGS) $(fileo) -o $@
 
-%.o	:  %.cpp Array.hpp
+%.o	:  %.cpp iter.hpp
 		$(cc) $(FLAGS) $(file) -c $<
 
 clean :
