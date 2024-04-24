@@ -1,10 +1,13 @@
 #include "BitcoinExchange.hpp"
 int main(int argc, char **argv)
 {
-	if(argc == 2)
+	if (argc == 2)
 	{
-		read_database();
+		BitcoinExchnage e;
+		e.read_database();
+		e.read("test.txt");
 	}
 	else
 		std::cout << "error" << std::endl;
 }
+

@@ -1,6 +1,12 @@
 #include "BitcoinExchange.hpp"
 #include <map>
 
+BitcoinExchnage::BitcoinExchnage()
+{
+
+}
+
+
 void find_delete(std::string &str)
 {
     size_t found = str.find("-");
@@ -38,19 +44,16 @@ int store(std::string str, double *var)
     char *reminder;
 
     reminder = 0;
-    if (str.length() > 4)
-    {
-        std::cout << "hnaaaaaaa" << std::endl;
-        return (0);
-    }
+   
     const char *strc = str.c_str();
     *var = strtod(strc , &reminder);
-
+     if (str.length() > 4 && strlen(reminder) == 0)
+     {
+        std::cout << "Error: too large a number." << std::endl;
+        return (0);
+     }
     if (strlen(reminder) != 0)
-    {
-        std::cout<< "lbts akhouya" << std::endl;
         return(0);
-    }
     return(1);
 }   
 bool isLeapYear(int year) {
@@ -74,31 +77,44 @@ int max_days_month(int month, int year)
         return(30);
 }
 
+int diplay_error(std::string str)
+{
+    std::cout << "Error: bad input => "  << str << std::endl;
+    return (0);
+}
+
 int valid_date(std::string str)
 {
     std::string syear;
     std::string smonth;
     std::string sday;
+    std::string ostr;
     char *rest;
     int year;
     int month;
     int day;
 
+    ostr = str;
     rest = 0;
+    if (str == "")
+    {
+        std::cout << "Error: Empty date" << std::endl;
+        return (0);
+    }
     find_delete(str);   
     std::stringstream ss(str);
     ss >> syear >> smonth >> sday;
     if(!test_length(syear, YEAR) || !test_length(smonth, MONTH) || !test_length(sday, DAY))
-        return (0);
+        return (diplay_error(ostr));
     if(!store(syear, &year, YEAR) || !store(smonth , &month, MONTH) || !store(sday , &day, DAY))
-        return(0);
+        return(diplay_error(ostr));
     if (year > 2024 || year < 2009)
-        return(0);
+        return(diplay_error(ostr));
     if (month > 12 || month < 1)
-        return (0);
+        return (diplay_error(ostr));
     if((day > max_days_month(month, year) || day < 1))
-        return (0);
-    return((year * 365) + max_days_month(month, year) + day);
+        return (diplay_error(ostr));
+    return (1);
 }
 
 double get_value(std::string str)
@@ -132,25 +148,35 @@ int fulldate_days(std::string   str)
     store(sday , &day, DAY);
     return((year * 365) + (month * 30) + day);
 }
-// 2001-12-31
-// 2001-2-31
+
 double valid_value(std::string str)
 {
     double value = 0;
-
+    if(str == "")
+    {
+        std::cout << "Error: Empty value" << std::endl;
+        return(0);
+    }
     if (!store(str, &value))
-        return (-1);
+        return (0);
     if (value > 1000)
-        return (-2);
+    {
+        std::cout << "Error: too large a number." << std::endl;
+        return (0);
+    }
     if (value < 0)
-        return (-3);
-
-    std::cout << "value        --" << value;
+        return (0);
     return (value);
 }
 
-
-void read_database()
+void change_char(std::string &str)
+{
+    size_t pos = str.find(',');
+    if (pos != std::string::npos) {
+        str[pos] = ' ';
+    }
+}
+void BitcoinExchnage::read_database()
 {
     std::string date;
     std::string tmp;
@@ -158,53 +184,62 @@ void read_database()
     double dvalue;
     int idate;
 
-    std::map<int, double> myMap;
-    std::ifstream inputFile("test.txt");
+  
+    std::ifstream inputFile("data.csv");
 
     if (!inputFile) 
 	{
         std::cerr << "Failed to open the file." << std::endl;
         return ;
     }
-
-
-
-
-
-    int i = 1;
     std::string line;
     std::string pline;
     while (std::getline(inputFile, line)) 
     {
+        change_char(line);
         std::stringstream ss(line);
-        ss >> date >> tmp >> value;
-        idate = fulldate_days(date);
-        // std::cout << "--    "  << value  << "-----";
+        ss >> date >> value;
         dvalue = get_value (value);
-        // std::cout << dvalue << std::endl;
-        std::cout << i << std::endl;    
-        // std::cout << "idate" << idate;
-        // std::cout << " dvalue" << dvalue << std::endl;
-        // std::cout << line << std::endl;
-        myMap.insert(std::pair<int, double>(idate, dvalue));
-        i++;
+        dbmap.insert(std::pair<std::string, double>(date, dvalue));
     }
-        
-    for (std::map<int , double>::iterator it = myMap.begin(); it != myMap.end(); ++it) 
-    {
-        std::cout << "Key: " << it->first << ", Value: " << it->second << std::endl;
-    }
-
     inputFile.close();
 }
-
-void read(std::string fileName)
+void BitcoinExchnage::display()
 {
+    std::map<std::string, double>::iterator it;
+    for(it = dbmap.begin() ; it != dbmap.end(); ++it)
+    {
+        std::cout << it->first <<" " << it->second << std::endl;
+    }
+}
+BitcoinExchnage::~BitcoinExchnage()
+{
+
+}
+double BitcoinExchnage::returnValue(std::string value)
+{
+    std::map<std::string, double>::iterator it = dbmap.lower_bound(value);
+    if (it != dbmap.end()) 
+    {
+       if(it == dbmap.begin() && it->second != dbmap.begin()->second)
+            return (-1);
+        if(it != dbmap.begin() && it->first != value)
+            it--;
+        return (it->second);
+    } 
+    else
+        return (-1);
+} 
+void BitcoinExchnage::read(std::string fileName)
+{
+    bool b = 0;
     double dvalue;
+    int idate;
+
     std::string tmp;
     std::string date;
     std::string value;
-    int idate;
+    
  	std::ifstream inputFile(fileName);
 
     if (!inputFile) 
@@ -217,19 +252,19 @@ void read(std::string fileName)
     std::string pline;
     while (std::getline(inputFile, line)) 
     {
-        // std::cout << line << std::endl;
-        
         std::stringstream ss(line);
-
         ss >> date >> tmp >> value;
-        if(!(idate = valid_date(date)) && (dvalue = valid_value(value)) < 0)
+        if(date == "date" && value == "value" && b == 0)
+            continue;
+        else if((idate = valid_date(date)) && (dvalue = valid_value(value)))
         {
+            b = 1;
+            std::cout << date << " " << value << " " << "=>";
+            std::cout << " " << returnValue(date) * dvalue << std::endl;
         }
-        else
-        {
-        }
-        std::cout << line << std::endl; 
+
+        date = "";
+        value = "";
     }
-    
     inputFile.close();
 }
